@@ -1,0 +1,5535 @@
+[
+  {
+    "id": "10025027",
+    "title": "Amelioration of the physio-biochemical responses to salinity stress and computing the primary germination index components in cauliflower on seed priming",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "10027818",
+    "title": "Meta-analysis of the space flight and microgravity response of the Arabidopsis plant transcriptome",
+    "cited": [
+      "10712242",
+      "PMC5491145",
+      "PMC6240453",
+      "PMC7251690",
+      "PMC7778922",
+      "PMC8044432"
+    ],
+    "cited_by": [
+      "10712242",
+      "10800490"
+    ]
+  },
+  {
+    "id": "10030976",
+    "title": "Toward sustainable space exploration: a roadmap for harnessing the power of microorganisms",
+    "cited": [
+      "PMC8739323",
+      "PMC9098553"
+    ],
+    "cited_by": [
+      "10605753"
+    ]
+  },
+  {
+    "id": "10058394",
+    "title": "Brachypodium distachyon Seedlings Display Accession-Specific Morphological and Transcriptomic Responses to the Microgravity Environment of the International Space Station",
+    "cited": [
+      "10712242",
+      "PMC11869762",
+      "PMC5491145"
+    ],
+    "cited_by": [
+      "10712242",
+      "10800490",
+      "PMC5491145",
+      "PMC5515520",
+      "PMC6240453",
+      "PMC6348315",
+      "PMC6359015",
+      "PMC6447593",
+      "PMC7064724",
+      "PMC7076552",
+      "PMC7251690",
+      "PMC7825584",
+      "PMC7996555",
+      "PMC8234954",
+      "PMC8475764",
+      "PMC9098553"
+    ]
+  },
+  {
+    "id": "10138634",
+    "title": "Evidence of Spaceflight-Induced Adverse Effects on Photoreceptors and Retinal Function in the Mouse Eye",
+    "cited": [
+      "PMC6547757",
+      "PMC6746706"
+    ],
+    "cited_by": [
+      "10487739",
+      "PMC11593819"
+    ]
+  },
+  {
+    "id": "10142442",
+    "title": "Inhibition of Cytomegalovirus by Pentacta pygmaea Fucosylated Chondroitin Sulfate Depends on Its Molecular Weight",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "10144393",
+    "title": "Morphology of Penicillium rubens Biofilms Formed in Space",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "10233975",
+    "title": "Characterization of metagenome-assembled genomes from the International Space Station",
+    "cited": [
+      "9116463",
+      "PMC6251167",
+      "PMC6280456",
+      "PMC6426649",
+      "PMC6452512",
+      "PMC8754149",
+      "PMC8875396"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "10261121",
+    "title": "Future space experiment platforms for astrobiology and astrochemistry research",
+    "cited": [
+      "PMC5587110",
+      "PMC9445043"
+    ],
+    "cited_by": [
+      "10605753"
+    ]
+  },
+  {
+    "id": "10264680",
+    "title": "The EXO70 inhibitor Endosidin2 alters plasma membrane protein composition in Arabidopsis roots",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "10284894",
+    "title": "Microbial applications for sustainable space exploration beyond low Earth orbit",
+    "cited": [
+      "PMC3639165",
+      "PMC3851762",
+      "PMC5958250",
+      "PMC6280456",
+      "PMC6452512",
+      "PMC6529585",
+      "PMC7000411",
+      "PMC7076552",
+      "PMC7171750",
+      "PMC7261848",
+      "PMC7326050",
+      "PMC7829349",
+      "PMC7937622",
+      "PMC8012687",
+      "PMC8421509",
+      "PMC8468678",
+      "PMC8537831",
+      "PMC9031868",
+      "PMC9098553",
+      "PMC9241228"
+    ],
+    "cited_by": [
+      "10605753"
+    ]
+  },
+  {
+    "id": "10285634",
+    "title": "Toward countering muscle and bone loss with spaceflight: GSK3 as a potential target",
+    "cited": [
+      "PMC4136787",
+      "PMC7012842"
+    ],
+    "cited_by": [
+      "PMC11271499"
+    ]
+  },
+  {
+    "id": "10308117",
+    "title": "Comparative genomic analysis of Cohnella hashimotonis sp. nov. isolated from the International Space Station",
+    "cited": [
+      "PMC4624184",
+      "PMC5201052",
+      "PMC5552977",
+      "PMC5958250",
+      "PMC6280456",
+      "PMC6452512",
+      "PMC7067979",
+      "PMC7303416",
+      "PMC7393961",
+      "PMC7561690",
+      "PMC8086211",
+      "PMC8104057",
+      "PMC9241228"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "10344948",
+    "title": "Caenorhabditis elegans in microgravity: An omics perspective",
+    "cited": [
+      "PMC7415877",
+      "PMC7733874",
+      "PMC7890410",
+      "PMC8044432",
+      "PMC8430797",
+      "PMC9856674"
+    ],
+    "cited_by": [
+      "10605753"
+    ]
+  },
+  {
+    "id": "10370681",
+    "title": "Wild mouse gut microbiota limits initial tuberculosis infection in BALB/c mice",
+    "cited": [],
+    "cited_by": [
+      "PMC5864415"
+    ]
+  },
+  {
+    "id": "10386755",
+    "title": "Sequencing the Genomes of the First Terrestrial Fungal Lineages: What Have We Learned?",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "10390562",
+    "title": "Paving the way to better understand the effects of prolonged spaceflight on operational performance and its neural bases",
+    "cited": [],
+    "cited_by": [
+      "10605753"
+    ]
+  },
+  {
+    "id": "10410709",
+    "title": "Mitochondrial sulfide promotes life span and health span through distinct mechanisms in developing versus adult treated Caenorhabditis elegans",
+    "cited": [
+      "6057834"
+    ],
+    "cited_by": [
+      "10605753"
+    ]
+  },
+  {
+    "id": "10414970",
+    "title": "The AUX1-AFB1-CNGC14 module establishes a longitudinal root surface pH profile",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "10422843",
+    "title": "Genomic characterization and radiation tolerance of Naganishia kalamii sp. nov. and Cystobasidium onofrii sp. nov. from Mars 2020 mission assembly facilities",
+    "cited": [
+      "PMC5504618",
+      "PMC6529585",
+      "PMC8875396"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "10432549",
+    "title": "Biofilm formation of Pseudomonas aeruginosa in spaceflight is minimized on lubricant impregnated surfaces",
+    "cited": [
+      "PMC3639165",
+      "PMC8739323"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "10470837",
+    "title": "Reviewing the state of biosensors and lab-on-a- chip technologies: opportunities for extreme environments and space exploration",
+    "cited": [
+      "PMC12034939",
+      "PMC8113475",
+      "PMC8739323"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "10472590",
+    "title": "Editorial: Revisiting the limits of plant life - plant adaptations to extreme terrestrial environments relating to astrobiology and space biology",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "10487739",
+    "title": "Spaceflight-Induced Gene Expression Profiles in the Mouse Brain Are Attenuated by Treatment with the Antioxidant BuOE",
+    "cited": [
+      "10138634",
+      "PMC6337482",
+      "PMC6746706",
+      "PMC6915713"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "10503492",
+    "title": "Artificial Gravity Partially Protects Space-induced Neurological Deficits in Drosophila melanogaster",
+    "cited": [
+      "7870178",
+      "PMC6165321",
+      "PMC6337482",
+      "PMC7000411",
+      "PMC7072278",
+      "PMC7733874",
+      "PMC7756143",
+      "PMC7787258",
+      "PMC8044432"
+    ],
+    "cited_by": [
+      "10797188"
+    ]
+  },
+  {
+    "id": "10504369",
+    "title": "Impacts of radiation exposure, hindlimb unloading, and recovery on murine skeletal muscle cell telomere length",
+    "cited": [
+      "PMC3603133",
+      "PMC8450295"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "10528075",
+    "title": "Metabolomics Profile of the Secretome of Space-Flown Oligodendrocytes",
+    "cited": [
+      "10607959",
+      "7324008",
+      "PMC9953055"
+    ],
+    "cited_by": [
+      "10813126"
+    ]
+  },
+  {
+    "id": "10605753",
+    "title": "Spaceflight Induces Strength Decline in Caenorhabditis elegans",
+    "cited": [
+      "10030976",
+      "10261121",
+      "10284894",
+      "10344948",
+      "10390562",
+      "10410709",
+      "6057834",
+      "7870178",
+      "PMC7733874",
+      "PMC7890410",
+      "PMC8044432",
+      "PMC9576569",
+      "PMC9583032",
+      "PMC9640571"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "10607959",
+    "title": "Correction: Tran et al. Delayed Maturation of Oligodendrocyte Progenitors by Microgravity: Implications for Multiple Sclerosis and Space Flight. Life 2022, 12, 797",
+    "cited": [],
+    "cited_by": [
+      "10528075",
+      "PMC9953055"
+    ]
+  },
+  {
+    "id": "10628120",
+    "title": "Phylogenomics, phenotypic, and functional traits of five novel (Earth-derived) bacterial species isolated from the International Space Station and their prevalence in metagenomes",
+    "cited": [
+      "PMC4945788",
+      "PMC5201052",
+      "PMC5552977",
+      "PMC5578834",
+      "PMC5805884",
+      "PMC5958250",
+      "PMC6280456",
+      "PMC6426649",
+      "PMC6452512",
+      "PMC7303416",
+      "PMC7317102",
+      "PMC7393961",
+      "PMC7484075",
+      "PMC7516158",
+      "PMC7561690",
+      "PMC7595942",
+      "PMC7677455",
+      "PMC8086211",
+      "PMC8754149",
+      "PMC9241228",
+      "PMC9258157",
+      "PMC9400218",
+      "PMC9743659"
+    ],
+    "cited_by": [
+      "PMC10960378"
+    ]
+  },
+  {
+    "id": "10712242",
+    "title": "Integrative transcriptomics and proteomics profiling of Arabidopsis thaliana elucidates novel mechanisms underlying spaceflight adaptation",
+    "cited": [
+      "10027818",
+      "10058394",
+      "PMC5397022",
+      "PMC5491145",
+      "PMC7076552",
+      "PMC7251690"
+    ],
+    "cited_by": [
+      "10027818",
+      "10058394",
+      "PMC4923109",
+      "PMC5397022",
+      "PMC5491145",
+      "PMC5515520",
+      "PMC5817088",
+      "PMC6240453",
+      "PMC6348315",
+      "PMC6359015",
+      "PMC6447593",
+      "PMC7064724",
+      "PMC7076552",
+      "PMC7996555",
+      "PMC8234954",
+      "PMC9445043",
+      "PMC9701605"
+    ]
+  },
+  {
+    "id": "10715203",
+    "title": "Genomic analysis reveals the presence of emerging pathogenic Klebsiella lineages aboard the International Space Station",
+    "cited": [
+      "PMC6280456",
+      "PMC6452512",
+      "PMC7561690",
+      "PMC9258157"
+    ],
+    "cited_by": [
+      "PMC10960378"
+    ]
+  },
+  {
+    "id": "10719374",
+    "title": "Explainable machine learning identifies multi-omics signatures of muscle response to spaceflight in mice",
+    "cited": [
+      "7870178",
+      "PMC7778922",
+      "PMC8044432"
+    ],
+    "cited_by": [
+      "PMC11941215"
+    ]
+  },
+  {
+    "id": "10751425",
+    "title": "Bisphosphonates attenuate age\u2010related muscle decline in  Caenorhabditis elegans",
+    "cited": [
+      "PMC7530743"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "10772081",
+    "title": "A comprehensive SARS-CoV-2 and COVID-19 review, Part 2: host extracellular to systemic effects of SARS-CoV-2 infection",
+    "cited": [
+      "PMC9108708"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "10774393",
+    "title": "Altered quorum sensing and physiology of Staphylococcus aureus during spaceflight detected by multi-omics data analysis",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "10780891",
+    "title": "Bread Wheat in Space Flight: Is There a Difference in Kernel Quality?",
+    "cited": [
+      "PMC7996555"
+    ],
+    "cited_by": [
+      "PMC7067979",
+      "PMC7261848",
+      "PMC8537831"
+    ]
+  },
+  {
+    "id": "10789781",
+    "title": "Chromosomal positioning and epigenetic architecture influence DNA methylation patterns triggered by galactic cosmic radiation",
+    "cited": [
+      "PMC8220224"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "10793275",
+    "title": "Draft genome sequence of Sphingomonas paucimobilis strain Sph5, isolated from tap water filtration membrane",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "10797188",
+    "title": "Drosophila parasitoids go to space: Unexpected effects of spaceflight on hosts and their parasitoids",
+    "cited": [
+      "10503492",
+      "5659752",
+      "PMC3901686",
+      "PMC6945029",
+      "PMC7000411",
+      "PMC7787258",
+      "PMC8191917"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "10800490",
+    "title": "Conserved plant transcriptional responses to microgravity from two consecutive spaceflight experiments",
+    "cited": [
+      "10027818",
+      "10058394",
+      "PMC5491145",
+      "PMC7251690",
+      "PMC8475764",
+      "PMC8539686"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "10813126",
+    "title": "Metabolomic Profiling of the Secretome from Human Neural Stem Cells Flown into Space",
+    "cited": [
+      "10528075",
+      "7324008",
+      "7870178",
+      "PMC11988870",
+      "PMC7998608",
+      "PMC8412175"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "10831389",
+    "title": "Sex differences in muscle health in simulated micro- and partial-gravity environments in rats",
+    "cited": [
+      "PMC11747068",
+      "PMC7599661",
+      "PMC8493566"
+    ],
+    "cited_by": [
+      "PMC11659408"
+    ]
+  },
+  {
+    "id": "2824534",
+    "title": "In vitro generation of mechanically functional cartilage grafts based on adult human stem cells and 3D-woven poly(\u03b5-caprolactone) scaffolds",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "2910419",
+    "title": "DEVELOPMENT OF OTOLITH RECEPTORS IN JAPANESE QUAIL",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "3166430",
+    "title": "Spatial and temporal characteristics of vestibular convergence",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "3289768",
+    "title": "Three Routes to Modulate the Pore Size of the MscL Channel/Nanovalve",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "3558598",
+    "title": "Ehrlichia chaffeensis replication sites in adult Drosophila melanogaster",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "3564669",
+    "title": "Failure to Generate Bone Marrow Adipocytes Does Not Protect Mice from Ovariectomy-Induced Osteopenia",
+    "cited": [],
+    "cited_by": [
+      "4161659",
+      "PMC10889206",
+      "PMC4985531",
+      "PMC5389344",
+      "PMC9582271"
+    ]
+  },
+  {
+    "id": "3570223",
+    "title": "Evaluation of in vitro macrophage differentiation during space flight",
+    "cited": [],
+    "cited_by": [
+      "3890248",
+      "PMC11053165"
+    ]
+  },
+  {
+    "id": "3593973",
+    "title": "Chimeras reveal a single lipid-interface residue that controls MscL channel kinetics as well as mechanosensitivity",
+    "cited": [
+      "PMC2998437"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "3818365",
+    "title": "IRE1: ER stress sensor and cell fate executor",
+    "cited": [],
+    "cited_by": [
+      "4618186",
+      "5415411"
+    ]
+  },
+  {
+    "id": "3856860",
+    "title": "Chronic Skeletal Unloading of the Rat Femur: Mechanisms and Functional Consequences of Vascular Remodeling",
+    "cited": [
+      "PMC3502426"
+    ],
+    "cited_by": [
+      "4169763",
+      "4379453",
+      "PMC6547757",
+      "PMC7339929",
+      "PMC7599661"
+    ]
+  },
+  {
+    "id": "3890248",
+    "title": "Understanding macrophage differentiation during space flight: The importance of ground-based experiments before space flight",
+    "cited": [
+      "3570223"
+    ],
+    "cited_by": [
+      "PMC11053165"
+    ]
+  },
+  {
+    "id": "3947616",
+    "title": "Altered Disc Compression in Children with Idiopathic Low Back Pain: An Upright MRI Backpack Study",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "3981873",
+    "title": "INTER-REGULATION OF THE UNFOLDED PROTEIN RESPONSE AND AUXIN SIGNALING",
+    "cited": [],
+    "cited_by": [
+      "4618186",
+      "5415411"
+    ]
+  },
+  {
+    "id": "4012541",
+    "title": "Molecular mechanisms underlying the enhanced functions of three-dimensional hepatocyte aggregates",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "4042434",
+    "title": "Acute Exposure to High Dose \u03b3-Radiation Results in Transient Activation of Bone Lining Cells",
+    "cited": [],
+    "cited_by": [
+      "6548323",
+      "PMC10889206",
+      "PMC4490751",
+      "PMC5666799",
+      "PMC9582271"
+    ]
+  },
+  {
+    "id": "4064004",
+    "title": "Organization of the ER\u2013Golgi interface for membrane traffic control",
+    "cited": [],
+    "cited_by": [
+      "5415411"
+    ]
+  },
+  {
+    "id": "4096993",
+    "title": "Mimicking the host and its microenvironment in vitro for studying mucosal infections by Pseudomonas aeruginosa",
+    "cited": [
+      "PMC3012082"
+    ],
+    "cited_by": [
+      "PMC5460263"
+    ]
+  },
+  {
+    "id": "4110898",
+    "title": "Fifteen Days Microgravity Causes Growth in Calvaria of Mice",
+    "cited": [],
+    "cited_by": [
+      "7138367",
+      "PMC5460236",
+      "PMC5515519",
+      "PMC9139491"
+    ]
+  },
+  {
+    "id": "4116675",
+    "title": "Overexpression of CupB5 activates alginate overproduction in Pseudomonas aeruginosa by a novel AlgW-dependent mechanism",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "4118556",
+    "title": "Partial Reductions in Mechanical Loading Yield Proportional Changes in Bone Density, Bone Architecture, and Muscle Mass",
+    "cited": [],
+    "cited_by": [
+      "8274610",
+      "PMC6124165",
+      "PMC6706399",
+      "PMC6753329",
+      "PMC7235020",
+      "PMC7599661",
+      "PMC8509868"
+    ]
+  },
+  {
+    "id": "4161659",
+    "title": "Morbid Obesity Attenuates the Skeletal Abnormalities Associated with Leptin Deficiency in Mice",
+    "cited": [
+      "3564669"
+    ],
+    "cited_by": [
+      "4917201",
+      "5288125",
+      "5421618",
+      "5771473",
+      "PMC4985531",
+      "PMC6597714"
+    ]
+  },
+  {
+    "id": "4169763",
+    "title": "Exercise Training Augments Regional Bone and Marrow Blood Flow during Exercise",
+    "cited": [
+      "3856860",
+      "PMC3502426"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "4379453",
+    "title": "Type 2 diabetes alters bone and marrow blood flow and vascular control mechanisms in the ZDF rat",
+    "cited": [
+      "3856860",
+      "PMC3502426"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "4469364",
+    "title": "Expressing and Characterizing Mechanosensitive Channels in Xenopus Oocytes",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "4618186",
+    "title": "Unfolded protein response in plants: one master, many questions",
+    "cited": [
+      "3818365",
+      "3981873"
+    ],
+    "cited_by": [
+      "5415411",
+      "6289879"
+    ]
+  },
+  {
+    "id": "4653813",
+    "title": "Spaceflight and hind limb unloading induce similar changes in electrical impedance characteristics of mouse gastrocnemius muscle",
+    "cited": [],
+    "cited_by": [
+      "PMC5443495",
+      "PMC7012842"
+    ]
+  },
+  {
+    "id": "4917201",
+    "title": "Hypothalamic Leptin Gene Therapy Reduces Body Weight without Accelerating Age-Related Bone Loss",
+    "cited": [
+      "4161659"
+    ],
+    "cited_by": [
+      "5771473"
+    ]
+  },
+  {
+    "id": "5219934",
+    "title": "Environmental cues and symbiont microbe-associated molecular patterns function in concert to drive the daily remodelling of the crypt-cell brush border of the Euprymna scolopes light organ",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "5288125",
+    "title": "Leptin Stimulates Bone Formation in ob/ob Mice at Doses Having Minimal Impact on Energy Metabolism",
+    "cited": [
+      "4161659",
+      "5421618"
+    ],
+    "cited_by": [
+      "5771473",
+      "PMC6597714",
+      "PMC6865368",
+      "PMC9582271"
+    ]
+  },
+  {
+    "id": "5415411",
+    "title": "Maintaining the Factory: The Roles of the Unfolded Protein Response in Cellular Homeostasis in Plants",
+    "cited": [
+      "3818365",
+      "3981873",
+      "4064004",
+      "4618186"
+    ],
+    "cited_by": [
+      "6289879"
+    ]
+  },
+  {
+    "id": "5421618",
+    "title": "Room Temperature Housing Results in Premature Cancellous Bone Loss in Growing Female Mice: Implications for the Mouse as a Preclinical Model for Age-Related Bone Loss",
+    "cited": [
+      "4161659"
+    ],
+    "cited_by": [
+      "5288125",
+      "6548323",
+      "8274610",
+      "PMC4985531",
+      "PMC5389344",
+      "PMC6597714",
+      "PMC6865368",
+      "PMC8213760",
+      "PMC9582271"
+    ]
+  },
+  {
+    "id": "5477841",
+    "title": "Spaceflight-Induced Bone Loss Alters Failure Mode and Reduces Bending Strength in Murine Spinal Segments",
+    "cited": [],
+    "cited_by": [
+      "7138367",
+      "PMC7012842"
+    ]
+  },
+  {
+    "id": "5568470",
+    "title": "Prolonged Exposure to Particulate Chromate Inhibits RAD51 Nuclear Import Mediator Proteins",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "5600826",
+    "title": "Intrauterine exposure to maternal stress alters Bdnf IV DNA methylation and telomere length in the brain of adult rat offspring",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "5659752",
+    "title": "Novel organelles with elements of bacterial and eukaryotic secretion systems weaponize parasites of Drosophila",
+    "cited": [],
+    "cited_by": [
+      "10797188",
+      "PMC6945029",
+      "PMC8191917",
+      "PMC9865768"
+    ]
+  },
+  {
+    "id": "5736159",
+    "title": "Validation of Methods to Assess the Immunoglobulin Gene Repertoire in Tissues Obtained from Mice on the International Space Station",
+    "cited": [],
+    "cited_by": [
+      "5826609",
+      "6366624",
+      "PMC5761896",
+      "PMC7756143"
+    ]
+  },
+  {
+    "id": "5771473",
+    "title": "Effects of hypothalamic leptin gene therapy on osteopetrosis in leptin-deficient mice",
+    "cited": [
+      "4161659",
+      "4917201",
+      "5288125",
+      "PMC4985531"
+    ],
+    "cited_by": [
+      "PMC6597714"
+    ]
+  },
+  {
+    "id": "5826609",
+    "title": "Effects of spaceflight on the immunoglobulin repertoire of unimmunized C57BL/6 mice",
+    "cited": [
+      "5736159",
+      "PMC11747068",
+      "PMC3792163",
+      "PMC4430214"
+    ],
+    "cited_by": [
+      "PMC10996920",
+      "PMC5761896",
+      "PMC6689164",
+      "PMC7756143"
+    ]
+  },
+  {
+    "id": "5899691",
+    "title": "Morphology of the Utricular Otolith Organ in the Toadfish, Opsanus tau",
+    "cited": [],
+    "cited_by": [
+      "PMC6204554"
+    ]
+  },
+  {
+    "id": "6036641",
+    "title": "Cortical Thinning and Structural Bone Changes in Non-human Primates Following Single Fraction Whole Chest Radiation",
+    "cited": [
+      "PMC4490751",
+      "PMC4750446",
+      "PMC5666799"
+    ],
+    "cited_by": [
+      "6599637"
+    ]
+  },
+  {
+    "id": "6057834",
+    "title": "NemaFlex: A microfluidics-based technology for standardized measurement of muscular strength of C. elegans",
+    "cited": [],
+    "cited_by": [
+      "10410709",
+      "10605753",
+      "9549344",
+      "PMC11487192",
+      "PMC7285199",
+      "PMC9640571",
+      "PMC9862956"
+    ]
+  },
+  {
+    "id": "6131065",
+    "title": "Response of the mouse sublingual gland to spaceflight",
+    "cited": [
+      "6981245"
+    ],
+    "cited_by": [
+      "6981245"
+    ]
+  },
+  {
+    "id": "6141014",
+    "title": "Structural and functional properties of bone are compromised in amyotrophic lateral sclerosis mice",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "6289879",
+    "title": "NADPH Oxidase activity is required for ER stress survival in plants",
+    "cited": [
+      "4618186",
+      "5415411"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "6343501",
+    "title": "The multiscale structural and mechanical effects of mouse supraspinatus muscle unloading on the mature enthesis",
+    "cited": [],
+    "cited_by": [
+      "7138367",
+      "PMC11166952",
+      "PMC7756143"
+    ]
+  },
+  {
+    "id": "6366624",
+    "title": "A comparison of unamplified and massively multiplexed PCR amplification for murine antibody repertoire sequencing",
+    "cited": [
+      "5736159",
+      "PMC5761896"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "6462350",
+    "title": "Fish Oil Increases Specialized Pro-resolving Lipid Mediators in PAD (The OMEGA-PAD II Trial)",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "6548323",
+    "title": "Maintenance of Near Normal Bone Mass and Architecture in Lethally Irradiated Female Mice following Adoptive Transfer with as few as 750 Purified Hematopoietic Stem Cells",
+    "cited": [
+      "4042434",
+      "5421618",
+      "PMC4490751",
+      "PMC5389344",
+      "PMC9784906"
+    ],
+    "cited_by": [
+      "PMC10889206",
+      "PMC9582271"
+    ]
+  },
+  {
+    "id": "6599637",
+    "title": "Knee and Hip Joint Cartilage Damage from Combined Spaceflight Hazards of Low-Dose Radiation Less than 1 Gy and Prolonged Hindlimb Unloading",
+    "cited": [
+      "6036641",
+      "PMC3337602",
+      "PMC4750446"
+    ],
+    "cited_by": [
+      "8274610",
+      "PMC8131644"
+    ]
+  },
+  {
+    "id": "6615562",
+    "title": "The CaV1.2 L-type calcium channel regulates bone homeostasis in the middle and inner ear",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "6813909",
+    "title": "Effects of ex vivo Ionizing Radiation on Collagen Structure and Whole-Bone Mechanical Properties of Mouse Vertebrae",
+    "cited": [
+      "PMC6222041"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "6952069",
+    "title": "MetaMiner: A Scalable Peptidogenomics Approach for Discovery of Ribosomal Peptide Natural Products with Blind Modifications from Microbial Communities",
+    "cited": [
+      "PMC4945788",
+      "PMC5552977"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "6981245",
+    "title": "Effects of Spaceflight on the Mouse Submandibular Gland",
+    "cited": [
+      "6131065",
+      "PMC3792163",
+      "PMC5666744"
+    ],
+    "cited_by": [
+      "6131065",
+      "PMC5460236",
+      "PMC5515519",
+      "PMC6275019"
+    ]
+  },
+  {
+    "id": "7138367",
+    "title": "Multiscale effects of spaceflight on murine tendon and bone",
+    "cited": [
+      "4110898",
+      "5477841",
+      "6343501",
+      "PMC3630201",
+      "PMC4136787"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "7324008",
+    "title": "SIMULATED MICROGRAVITY ENHANCES OLIGODENDROCYTE MITOCHONDRIAL FUNCTION AND LIPID METABOLISM",
+    "cited": [],
+    "cited_by": [
+      "10528075",
+      "10813126",
+      "8274610",
+      "PMC11362537",
+      "PMC8412175"
+    ]
+  },
+  {
+    "id": "7870178",
+    "title": "Comprehensive Multi-Omics Analysis Reveals Mitochondrial Stress as a Central Biological Hub for Spaceflight Impact",
+    "cited": [
+      "PMC5443495",
+      "PMC6915713",
+      "PMC6985101",
+      "PMC8044432"
+    ],
+    "cited_by": [
+      "10503492",
+      "10605753",
+      "10719374",
+      "10813126",
+      "8274610",
+      "PMC11022651",
+      "PMC11166655",
+      "PMC11166662",
+      "PMC11166909",
+      "PMC11166911",
+      "PMC11166937",
+      "PMC11166943",
+      "PMC11166944",
+      "PMC11166946",
+      "PMC11166967",
+      "PMC11166968",
+      "PMC11166969",
+      "PMC11166981",
+      "PMC11263583",
+      "PMC11271499",
+      "PMC11353732",
+      "PMC11362537",
+      "PMC11747068",
+      "PMC11748630",
+      "PMC11988970",
+      "PMC8131644",
+      "PMC8169688",
+      "PMC8220224",
+      "PMC8396460",
+      "PMC8430797",
+      "PMC9163032",
+      "PMC9547011",
+      "PMC9576569",
+      "PMC9583032",
+      "PMC9701605",
+      "PMC9953463"
+    ]
+  },
+  {
+    "id": "8217198",
+    "title": "Plasma membrane disruption (PMD) formation and repair in mechanosensitive tissues",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "8274610",
+    "title": "THE INDIVIDUAL AND COMBINED EFFECTS OF SPACEFLIGHT RADIATION AND MICROGRAVITY ON BIOLOGIC SYSTEMS AND FUNCTIONAL OUTCOMES",
+    "cited": [
+      "4118556",
+      "5421618",
+      "6599637",
+      "7324008",
+      "7870178",
+      "PMC11747068",
+      "PMC11988870",
+      "PMC12034070",
+      "PMC3630201",
+      "PMC4750446",
+      "PMC4964660",
+      "PMC5443495",
+      "PMC5666799",
+      "PMC5666834",
+      "PMC6062551",
+      "PMC6165321",
+      "PMC6547757",
+      "PMC6706399",
+      "PMC6746706",
+      "PMC6747492",
+      "PMC6753329",
+      "PMC7162976",
+      "PMC7235020",
+      "PMC7599661",
+      "PMC7998608"
+    ],
+    "cited_by": [
+      "PMC11659408",
+      "PMC11892206"
+    ]
+  },
+  {
+    "id": "8513672",
+    "title": "Dichotomous effects on lymphatic transport with loss of caveolae in mice",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "9098231",
+    "title": "International Space Station conditions alter genomics, proteomics, and metabolomics in Aspergillus nidulans",
+    "cited": [
+      "9116463",
+      "PMC4624184"
+    ],
+    "cited_by": [
+      "PMC7326050",
+      "PMC8012687"
+    ]
+  },
+  {
+    "id": "9116463",
+    "title": "Proteomic characterization of Aspergillus fumigatus isolated from air and surfaces of the International Space Station",
+    "cited": [
+      "PMC3851762",
+      "PMC4624184",
+      "PMC6143729",
+      "PMC7326050"
+    ],
+    "cited_by": [
+      "10233975",
+      "9098231",
+      "PMC6143729",
+      "PMC6426649",
+      "PMC6529585",
+      "PMC8012687",
+      "PMC9031868"
+    ]
+  },
+  {
+    "id": "9549344",
+    "title": "A Region of UNC-89 (obscurin) Lying Between Two Protein Kinase Domains is a Highly Elastic Spring Required for Proper Sarcomere Organization",
+    "cited": [
+      "6057834"
+    ],
+    "cited_by": [
+      "PMC11487192"
+    ]
+  },
+  {
+    "id": "PMC10846184",
+    "title": "Metabolic model predictions enable targeted microbiome manipulation through precision prebiotics",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC10848226",
+    "title": "Biocontrol in built environments to reduce pathogen exposure and infection risk",
+    "cited": [
+      "PMC4624184",
+      "PMC5864415",
+      "PMC9258157"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC10889206",
+    "title": "Bone Marrow Adipose Tissue Is Not Required for Reconstitution of the Immune System following Irradiation in Male Mice",
+    "cited": [
+      "3564669",
+      "4042434",
+      "6548323",
+      "PMC4985531",
+      "PMC5389344",
+      "PMC6865368",
+      "PMC9784906"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC10926278",
+    "title": "Correction to \u201cAdaptation to full weight\u2010bearing following disuse in rats: The impact of biological sex\u00a0on\u00a0musculoskeletal recovery\u201d",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC10960378",
+    "title": "Genomic, functional, and metabolic enhancements in multidrug-resistant Enterobacter\u00a0bugandensis\u00a0facilitating its persistence and succession in the International Space Station",
+    "cited": [
+      "10628120",
+      "10715203",
+      "PMC9400218"
+    ],
+    "cited_by": [
+      "PMC11892206"
+    ]
+  },
+  {
+    "id": "PMC10996920",
+    "title": "An Analysis of the Effects of Spaceflight and Vaccination on Antibody Repertoire Diversity",
+    "cited": [
+      "5826609",
+      "PMC11747068",
+      "PMC11929063",
+      "PMC5761896",
+      "PMC7012842"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11022651",
+    "title": "Genome and clonal hematopoiesis stability contrasts with immune, cfDNA, mitochondrial, and telomere length changes during short duration spaceflight",
+    "cited": [
+      "7870178",
+      "PMC11166662",
+      "PMC11166909",
+      "PMC11166937",
+      "PMC11166943",
+      "PMC11166952",
+      "PMC11263583",
+      "PMC7667275"
+    ],
+    "cited_by": [
+      "PMC11357997"
+    ]
+  },
+  {
+    "id": "PMC11046949",
+    "title": "Antiviral screening of natural, anti-inflammatory compound library against African swine fever virus",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11053165",
+    "title": "NASA GeneLab derived microarray studies of Mus musculus and Homo sapiens organisms in altered gravitational conditions",
+    "cited": [
+      "3570223",
+      "3890248",
+      "PMC6379395",
+      "PMC7778922",
+      "PMC8044432",
+      "PMC8113475",
+      "PMC9365836"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11063234",
+    "title": "Proteomic and phosphoproteomic characterization of cardiovascular tissues after long term exposure to simulated space radiation",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11094041",
+    "title": "Inspiration4 data access through the NASA Open Science Data Repository",
+    "cited": [
+      "PMC7778922",
+      "PMC8044432"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11096397",
+    "title": "Microbial adaptation to spaceflight is correlated with bacteriophage-encoded functions",
+    "cited": [
+      "PMC6280456",
+      "PMC7484075",
+      "PMC7595942",
+      "PMC7778922",
+      "PMC7829349",
+      "PMC8086211",
+      "PMC9400218",
+      "PMC9743659"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11126634",
+    "title": "Fungal diversity differences in the indoor dust microbiome from built environments on earth and in space",
+    "cited": [
+      "PMC4624184",
+      "PMC7067979"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11127935",
+    "title": "Tardigrade secretory proteins protect biological structures from desiccation",
+    "cited": [
+      "PMC11930778"
+    ],
+    "cited_by": [
+      "PMC11930778",
+      "PMC8816950"
+    ]
+  },
+  {
+    "id": "PMC11166648",
+    "title": "Direct RNA sequencing of astronaut blood reveals spaceflight-associated m6A increases and hematopoietic transcriptional responses",
+    "cited": [
+      "PMC8044432"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11166655",
+    "title": "Influence of the spaceflight environment on macrophage lineages",
+    "cited": [
+      "7870178",
+      "PMC11747068",
+      "PMC5443495",
+      "PMC6753329",
+      "PMC7756144",
+      "PMC8099722",
+      "PMC8441986"
+    ],
+    "cited_by": [
+      "PMC11353732"
+    ]
+  },
+  {
+    "id": "PMC11166662",
+    "title": "Collection of biospecimens from the inspiration4 mission establishes the standards for the space omics and medical atlas (SOMA)",
+    "cited": [
+      "7870178",
+      "PMC11988970",
+      "PMC5580210",
+      "PMC7171750",
+      "PMC7943786",
+      "PMC8005752",
+      "PMC8441986",
+      "PMC9241228"
+    ],
+    "cited_by": [
+      "PMC11022651",
+      "PMC11166946",
+      "PMC11166969"
+    ]
+  },
+  {
+    "id": "PMC11166909",
+    "title": "Spatial multi-omics of human skin reveals KRAS and inflammatory responses to spaceflight",
+    "cited": [
+      "7870178",
+      "PMC11988970",
+      "PMC4964660",
+      "PMC5443495",
+      "PMC5460239",
+      "PMC7943786"
+    ],
+    "cited_by": [
+      "PMC11022651",
+      "PMC11357997"
+    ]
+  },
+  {
+    "id": "PMC11166911",
+    "title": "Spatially resolved multiomics on the neuronal effects induced by spaceflight in mice",
+    "cited": [
+      "7870178",
+      "PMC3630201",
+      "PMC6746706",
+      "PMC6747492",
+      "PMC7778922",
+      "PMC7828077",
+      "PMC7954810",
+      "PMC8044432",
+      "PMC9365836",
+      "PMC9701605"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11166937",
+    "title": "Single-cell analysis identifies conserved features of immune dysfunction in simulated microgravity and spaceflight",
+    "cited": [
+      "7870178",
+      "PMC7756144"
+    ],
+    "cited_by": [
+      "PMC11022651"
+    ]
+  },
+  {
+    "id": "PMC11166943",
+    "title": "Astronaut omics and the impact of space on the human body at scale",
+    "cited": [
+      "7870178",
+      "PMC5865701",
+      "PMC7778922",
+      "PMC9583032"
+    ],
+    "cited_by": [
+      "PMC11022651"
+    ]
+  },
+  {
+    "id": "PMC11166944",
+    "title": "Space radiation damage rescued by inhibition of key spaceflight associated miRNAs",
+    "cited": [
+      "7870178",
+      "PMC6386654",
+      "PMC6387434",
+      "PMC7756144",
+      "PMC8441986"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11166946",
+    "title": "Aging and putative frailty biomarkers are altered by spaceflight",
+    "cited": [
+      "7870178",
+      "PMC11166662",
+      "PMC5666834",
+      "PMC7012842",
+      "PMC7778922",
+      "PMC7954810",
+      "PMC8044432",
+      "PMC8441986",
+      "PMC9576569"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11166948",
+    "title": "Spatiotemporal expression and control of haemoglobin in space",
+    "cited": [
+      "PMC8044432",
+      "PMC8441986"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11166952",
+    "title": "Single-cell multi-ome and immune profiles of the Inspiration4 crew reveal conserved, cell-type, and sex-specific responses to spaceflight",
+    "cited": [
+      "6343501",
+      "PMC7756144",
+      "PMC7778922",
+      "PMC8441986"
+    ],
+    "cited_by": [
+      "PMC11022651"
+    ]
+  },
+  {
+    "id": "PMC11166967",
+    "title": "Transcriptomics analysis reveals molecular alterations underpinning spaceflight dermatology",
+    "cited": [
+      "7870178",
+      "PMC11988970",
+      "PMC8044432"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11166968",
+    "title": "Ethical considerations for the age of non-governmental space exploration",
+    "cited": [
+      "7870178"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11166969",
+    "title": "Secretome profiling reveals acute changes in oxidative stress, brain homeostasis, and coagulation following short-duration spaceflight",
+    "cited": [
+      "7870178",
+      "PMC11166662",
+      "PMC7778922"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11166981",
+    "title": "Spaceflight induces changes in gene expression profiles linked to insulin and estrogen",
+    "cited": [
+      "7870178",
+      "PMC6915713",
+      "PMC6985101",
+      "PMC7012842",
+      "PMC7778922",
+      "PMC7954810",
+      "PMC8044432",
+      "PMC8430797",
+      "PMC9583032"
+    ],
+    "cited_by": [
+      "PMC5515514",
+      "PMC7954810",
+      "PMC9267413"
+    ]
+  },
+  {
+    "id": "PMC11167060",
+    "title": "Cosmic kidney disease: an integrated pan-omic, physiological and morphological study into spaceflight-induced renal dysfunction",
+    "cited": [
+      "PMC8441986"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11167063",
+    "title": "Telomeric RNA (TERRA) increases in response to spaceflight and high-altitude climbing",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11167097",
+    "title": "Biological horizons: pioneering open science in the cosmos",
+    "cited": [
+      "PMC7778922",
+      "PMC8044432"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11222149",
+    "title": "Longitudinal multi-omics analysis of host microbiome architecture and immune responses during short-term spaceflight",
+    "cited": [
+      "PMC11988970",
+      "PMC6280456",
+      "PMC6452512",
+      "PMC9743659"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11233762",
+    "title": "Upregulation of Amy1 in the salivary glands of mice exposed to a lunar gravity environment using the multiple artificial gravity research system",
+    "cited": [
+      "PMC6746706"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11263583",
+    "title": "Protective alleles and precision healthcare in crewed spaceflight",
+    "cited": [
+      "7870178",
+      "PMC5865701",
+      "PMC6915713",
+      "PMC6985101",
+      "PMC7733874",
+      "PMC8044432",
+      "PMC9583032"
+    ],
+    "cited_by": [
+      "PMC11022651"
+    ]
+  },
+  {
+    "id": "PMC11271499",
+    "title": "Spaceflight increases sarcoplasmic reticulum Ca2+ leak and this cannot be counteracted with BuOE treatment",
+    "cited": [
+      "10285634",
+      "7870178",
+      "PMC6547757",
+      "PMC6746706",
+      "PMC7012842",
+      "PMC8396460"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11302229",
+    "title": "Identification and characterization of a skin microbiome on Caenorhabditis elegans suggests environmental microbes confer cuticle protection",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11324864",
+    "title": "Simulated microgravity impairs human NK cell cytotoxic activity against space radiation-relevant leukemic cells",
+    "cited": [
+      "PMC11988870"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11339457",
+    "title": "Discoveries from human stem cell research in space that are relevant to advancing cellular therapies on Earth",
+    "cited": [
+      "PMC6062551",
+      "PMC7998608",
+      "PMC8412175"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11353732",
+    "title": "Simulated Microgravity Alters Gene Regulation Linked to Immunity and Cardiovascular Disease",
+    "cited": [
+      "7870178",
+      "PMC11166655",
+      "PMC11747068",
+      "PMC8396460",
+      "PMC9695374"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11357981",
+    "title": "The Space Omics and Medical Atlas (SOMA) and international astronaut biobank",
+    "cited": [
+      "PMC7778922"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11357997",
+    "title": "Molecular and physiological changes in the SpaceX Inspiration4 civilian crew",
+    "cited": [
+      "PMC11022651",
+      "PMC11166909"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11362537",
+    "title": "Spaceflight alters host-gut microbiota interactions",
+    "cited": [
+      "7324008",
+      "7870178",
+      "PMC5443495",
+      "PMC5666744",
+      "PMC6689164",
+      "PMC6915713",
+      "PMC6985101",
+      "PMC8044432",
+      "PMC8099722",
+      "PMC9576569"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11386075",
+    "title": "Predicting how varying moisture conditions impact the microbiome of dust collected from the International Space Station",
+    "cited": [
+      "PMC11988970",
+      "PMC6452512",
+      "PMC7067979",
+      "PMC7778922"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11451251",
+    "title": "Adaptation to space conditions of novel bacterial species isolated from the International Space Station revealed by functional gene annotations and comparative genome analysis",
+    "cited": [
+      "PMC3639165",
+      "PMC5805884",
+      "PMC6452512",
+      "PMC7825584",
+      "PMC9241228",
+      "PMC9258157",
+      "PMC9743659"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11470607",
+    "title": "Over-activation of iNKT cells aggravate lung injury in bronchopulmonary dysplasia mice",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11477029",
+    "title": "Effect of Simulated Cosmic Radiation on Cytomegalovirus Reactivation and Lytic Replication",
+    "cited": [
+      "PMC6213004"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11484870",
+    "title": "Author Correction: To boldly go where no microRNAs have gone before: spaceflight impact on risk for small-for-gestational-age infants",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11487192",
+    "title": "Protein kinase 2 of the giant sarcomeric protein UNC-89 regulates mitochondrial morphology and function",
+    "cited": [
+      "6057834",
+      "9549344"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11492218",
+    "title": "The Effect of Different Concentrations of Epinephrine in Otoendoscopic Surgery on Surgical Field Clarity: A Double-Blind, Randomized Study",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11500582",
+    "title": "Identification of a novel Golgi-localized putative glycosyltransferase protein in Arabidopsis thaliana",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11579474",
+    "title": "Impact of microgravity and lunar gravity on murine skeletal and immune systems during space travel",
+    "cited": [
+      "PMC3630201",
+      "PMC3792163"
+    ],
+    "cited_by": [
+      "PMC5666834",
+      "PMC7599661"
+    ]
+  },
+  {
+    "id": "PMC11593819",
+    "title": "Artificial Gravity Attenuates the Transcriptomic Response to Spaceflight in the Optic Nerve and Retina",
+    "cited": [
+      "10138634",
+      "PMC6165321",
+      "PMC6547757",
+      "PMC6746706",
+      "PMC8400407"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11659408",
+    "title": "Sex-specific cardiovascular adaptations to simulated microgravity in Sprague-Dawley rats",
+    "cited": [
+      "10831389",
+      "8274610",
+      "PMC11747068",
+      "PMC3509447",
+      "PMC5666834"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11673879",
+    "title": "Thermal Plasticity and Evolutionary Constraints in Bacillus: Implications for Climate Change Adaptation",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11747068",
+    "title": "Single-cell RNA sequencing of the carotid artery and femoral artery of rats exposed to hindlimb unloading",
+    "cited": [
+      "7870178"
+    ],
+    "cited_by": [
+      "10831389",
+      "5826609",
+      "8274610",
+      "PMC10996920",
+      "PMC11166655",
+      "PMC11353732",
+      "PMC11659408",
+      "PMC5666834",
+      "PMC6753329",
+      "PMC7162976",
+      "PMC7339929",
+      "PMC7599661",
+      "PMC7667275",
+      "PMC9695374"
+    ]
+  },
+  {
+    "id": "PMC11748630",
+    "title": "Analyzing the relationship between gene expression and phenotype in space-flown mice using a causal inference machine learning ensemble",
+    "cited": [
+      "7870178",
+      "PMC6915713",
+      "PMC6985101"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11831363",
+    "title": "Correction to: The Evolution of Temperature and Desiccation-Related Protein Families in Tardigrada Reveals a Complex Acquisition of Extremotolerance",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11833055",
+    "title": "Behavioral and multiomics analysis of 3D clinostat simulated microgravity effect in mice focusing on the central nervous system",
+    "cited": [
+      "PMC9365836",
+      "PMC9856674"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11850895",
+    "title": "Glutathione triggers leaf-to-leaf, calcium-based plant defense signaling",
+    "cited": [],
+    "cited_by": [
+      "PMC12008199",
+      "PMC7503278"
+    ]
+  },
+  {
+    "id": "PMC11869762",
+    "title": "Ginsenoside Reshapes Intestinal Microecology to Alleviate Microgravity Stress",
+    "cited": [],
+    "cited_by": [
+      "10058394",
+      "PMC4103452",
+      "PMC5286820",
+      "PMC5491145",
+      "PMC5515520",
+      "PMC6240453",
+      "PMC6348315",
+      "PMC6447593",
+      "PMC7064724",
+      "PMC7251690",
+      "PMC8475764",
+      "PMC9445043"
+    ]
+  },
+  {
+    "id": "PMC11888247",
+    "title": "Candida albicans Colonization Modulates Murine Ethanol Consumption and Behavioral Responses Through Elevation of Serum Prostaglandin E2 and Impact on the Striatal Dopamine System",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11892206",
+    "title": "Immunization induces inflammation in the mouse heart during spaceflight",
+    "cited": [
+      "8274610",
+      "PMC10960378",
+      "PMC9953463"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11929063",
+    "title": "Preclinical development of TAK-754, a high-performance AAV8-based vector expressing coagulation factor VIII",
+    "cited": [],
+    "cited_by": [
+      "PMC10996920",
+      "PMC6753329"
+    ]
+  },
+  {
+    "id": "PMC11930778",
+    "title": "Possible roles of CAHS proteins from Tardigrade in osmotic stress tolerance in mammalian cells",
+    "cited": [
+      "PMC11127935"
+    ],
+    "cited_by": [
+      "PMC11127935",
+      "PMC8816950"
+    ]
+  },
+  {
+    "id": "PMC11940681",
+    "title": "37-Day microgravity exposure in 16-Week female C57BL/6J mice is associated with bone loss specific to weight-bearing skeletal sites",
+    "cited": [
+      "PMC3630201",
+      "PMC4136787",
+      "PMC7012842",
+      "PMC7907224"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11941215",
+    "title": "Effects of Space Flight on Inflammasome Activation in the Brain of Mice",
+    "cited": [
+      "10719374",
+      "PMC5515519",
+      "PMC6915713",
+      "PMC6985101",
+      "PMC7012842",
+      "PMC7555395",
+      "PMC8213760",
+      "PMC8220224",
+      "PMC9365836",
+      "PMC9576569"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11942576",
+    "title": "Genome-Wide Analysis of the PERK Gene Family in Brassica napus L. and Their Potential Roles in Clubroot Disease",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11953390",
+    "title": "Identification of therapeutic targets for chronic kidney disease through Mendelian randomization analysis of druggable genes",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11969330",
+    "title": "In situ monitoring of barrier function on-chip via automated, non-invasive luminescence sensing\u2020",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC11988870",
+    "title": "Microgravity and Cellular Biology: Insights into Cellular Responses and Implications for Human Health",
+    "cited": [
+      "PMC6062551",
+      "PMC7998608"
+    ],
+    "cited_by": [
+      "10813126",
+      "8274610",
+      "PMC11324864",
+      "PMC5515519",
+      "PMC5666744",
+      "PMC6275019"
+    ]
+  },
+  {
+    "id": "PMC11988970",
+    "title": "Molecular Mechanism of Microgravity-Induced Intestinal Flora Dysbiosis on the Abnormalities of Liver and Brain Metabolism",
+    "cited": [
+      "7870178",
+      "PMC5666744",
+      "PMC6321533",
+      "PMC6915713",
+      "PMC6985101",
+      "PMC9267413"
+    ],
+    "cited_by": [
+      "PMC11166662",
+      "PMC11166909",
+      "PMC11166967",
+      "PMC11222149",
+      "PMC11386075",
+      "PMC9031868",
+      "PMC9400218",
+      "PMC9503880",
+      "PMC9583032",
+      "PMC9743659"
+    ]
+  },
+  {
+    "id": "PMC11998595",
+    "title": "The Last Mile in Beta-Cell Replacement Therapy for Type 1 Diabetes: Time to Grow Up",
+    "cited": [],
+    "cited_by": [
+      "PMC7787258"
+    ]
+  },
+  {
+    "id": "PMC11999716",
+    "title": "Metagenomic interrogation of urban Superfund site reveals antimicrobial resistance reservoir and bioremediation potential",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC12008199",
+    "title": "Mechanosensing antagonizes ethylene signaling to promote root gravitropism in rice",
+    "cited": [
+      "PMC11850895"
+    ],
+    "cited_by": [
+      "PMC9617909"
+    ]
+  },
+  {
+    "id": "PMC12021249",
+    "title": "Development of a size-separation technique to isolate Caenorhabditis elegans embryos using mesh filters",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC12031868",
+    "title": "Disturbances in human position sense during alterations in gravity: a parabolic flight experiment",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC12034070",
+    "title": "Blood Flow Restriction Training: A Tool to Enhance Rehabilitation and Build Athlete Resiliency",
+    "cited": [],
+    "cited_by": [
+      "8274610",
+      "PMC7599661",
+      "PMC8493566"
+    ]
+  },
+  {
+    "id": "PMC12034939",
+    "title": "MHC Diversity Across Time and Space",
+    "cited": [],
+    "cited_by": [
+      "10470837"
+    ]
+  },
+  {
+    "id": "PMC12040010",
+    "title": "Cryptococcus albidus meningitis: A case report and literature review",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC2925951",
+    "title": "Growth Performance and Root Transcriptome Remodeling of Arabidopsis in Response to Mars-Like Levels of Magnesium Sulfate",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC2998437",
+    "title": "S. aureus MscL Is a Pentamer In Vivo but of Variable Stoichiometries In Vitro: Implications for Detergent-Solubilized Membrane Proteins",
+    "cited": [],
+    "cited_by": [
+      "3593973"
+    ]
+  },
+  {
+    "id": "PMC3002170",
+    "title": "Nutritional supplements, COX-2 and IGF-1 expression in men on active surveillance for prostate cancer",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC3012082",
+    "title": "Analysis of Interactions of Salmonella Type Three Secretion Mutants with 3-D Intestinal Epithelial Cells",
+    "cited": [],
+    "cited_by": [
+      "4096993",
+      "PMC5460263"
+    ]
+  },
+  {
+    "id": "PMC3040128",
+    "title": "5AtRabD2b and AtRabD2c have overlapping functions in pollen development and pollen tube growth",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC3044105",
+    "title": "The role of FGF-2 and BMP-2 in regulation of gene induction, cell proliferation and mineralization",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC3066201",
+    "title": "Functional Changes in the Snail Statocyst System Elicited by Microgravity",
+    "cited": [],
+    "cited_by": [
+      "PMC5672023",
+      "PMC6204554"
+    ]
+  },
+  {
+    "id": "PMC3242767",
+    "title": "Evaluation of Microorganisms Cultured from Injured and Repressed Tissue Regeneration Sites in Endangered Giant Aquatic Ozark Hellbender Salamanders",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC3251573",
+    "title": "New Insights into the Bacterial Fitness-Associated Mechanisms Revealed by the Characterization of Large Plasmids of an Avian Pathogenic E. coli",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC3337602",
+    "title": "Low-Dose, Ionizing Radiation and Age-Related Changes in Skeletal Microarchitecture",
+    "cited": [],
+    "cited_by": [
+      "6599637",
+      "PMC4490751",
+      "PMC4750446",
+      "PMC5666744",
+      "PMC5666799",
+      "PMC5666834"
+    ]
+  },
+  {
+    "id": "PMC3350920",
+    "title": "The 14-3-3 proteins of Arabidopsis regulate root growth and chloroplast development as components of the photosensory system",
+    "cited": [],
+    "cited_by": [
+      "PMC3422896"
+    ]
+  },
+  {
+    "id": "PMC3422896",
+    "title": "14-3-3 phosphoprotein interaction networks \u2013 does isoform diversity present functional interaction specification?",
+    "cited": [
+      "PMC3350920"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC3502426",
+    "title": "Aging and Estrogen Status: A Possible Endothelium-Dependent Vascular Coupling Mechanism in Bone Remodeling",
+    "cited": [],
+    "cited_by": [
+      "3856860",
+      "4169763",
+      "4379453"
+    ]
+  },
+  {
+    "id": "PMC3509447",
+    "title": "Hypergravity disruption of homeorhetic adaptations to lactation in rat dams include changes in circadian clocks",
+    "cited": [],
+    "cited_by": [
+      "PMC11659408"
+    ]
+  },
+  {
+    "id": "PMC3603133",
+    "title": "Effects of Gravitational Mechanical Unloading in Endothelial Cells: Association between Caveolins, Inflammation and Adhesion Molecules",
+    "cited": [],
+    "cited_by": [
+      "10504369"
+    ]
+  },
+  {
+    "id": "PMC3630201",
+    "title": "Microgravity Induces Pelvic Bone Loss through Osteoclastic Activity, Osteocytic Osteolysis, and Osteoblastic Cell Cycle Inhibition by CDKN1a/p21",
+    "cited": [],
+    "cited_by": [
+      "7138367",
+      "8274610",
+      "PMC11166911",
+      "PMC11579474",
+      "PMC11940681",
+      "PMC4750446",
+      "PMC5460236",
+      "PMC5587110",
+      "PMC5666744",
+      "PMC7072278",
+      "PMC8396460"
+    ]
+  },
+  {
+    "id": "PMC3639165",
+    "title": "Spaceflight Promotes Biofilm Formation by Pseudomonas aeruginosa",
+    "cited": [
+      "PMC7000411"
+    ],
+    "cited_by": [
+      "10284894",
+      "10432549",
+      "PMC11451251",
+      "PMC3851762",
+      "PMC4228280",
+      "PMC4430214",
+      "PMC5460135",
+      "PMC7000411",
+      "PMC7829349",
+      "PMC8421509",
+      "PMC8739323",
+      "PMC9031868",
+      "PMC9400218"
+    ]
+  },
+  {
+    "id": "PMC3647661",
+    "title": "Lack of Norovirus Replication and Histo-Blood Group Antigen Expression in 3-Dimensional Intestinal Epithelial Cells",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC3792163",
+    "title": "Correction: Changes in Mouse Thymus and Spleen after Return from the STS-135 Mission in Space",
+    "cited": [],
+    "cited_by": [
+      "5826609",
+      "6981245",
+      "PMC11579474",
+      "PMC4136787",
+      "PMC4430214",
+      "PMC5045078",
+      "PMC5443495",
+      "PMC5485990",
+      "PMC6753329",
+      "PMC7012842",
+      "PMC7072278",
+      "PMC8396460"
+    ]
+  },
+  {
+    "id": "PMC3851762",
+    "title": "Spaceflight Enhances Cell Aggregation and Random Budding in Candida albicans",
+    "cited": [
+      "PMC3639165"
+    ],
+    "cited_by": [
+      "10284894",
+      "9116463",
+      "PMC5460135",
+      "PMC6143729",
+      "PMC7733874",
+      "PMC7825584",
+      "PMC8012687",
+      "PMC8067245",
+      "PMC8421509",
+      "PMC9031868"
+    ]
+  },
+  {
+    "id": "PMC3869332",
+    "title": "Complete Genome Sequence of Carnobacterium gilichinskyi Strain WN1359T (DSM 27470T)",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC3901686",
+    "title": "Toll Mediated Infection Response Is Altered by Gravity and Spaceflight in Drosophila",
+    "cited": [
+      "PMC7000411"
+    ],
+    "cited_by": [
+      "10797188",
+      "PMC7000411",
+      "PMC9111996"
+    ]
+  },
+  {
+    "id": "PMC4033213",
+    "title": "Genomic stability in response to high versus low linear energy transfer radiation in Arabidopsis thaliana",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC4052902",
+    "title": "Phosphoinositide-signaling is one component of a robust plant defense response",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC4085587",
+    "title": "Conservation of the Low-shear Modeled Microgravity Response in Enterobacteriaceae and Analysis of the trp Genes in this Response",
+    "cited": [],
+    "cited_by": [
+      "PMC5515531",
+      "PMC7000411",
+      "PMC9111996"
+    ]
+  },
+  {
+    "id": "PMC4095884",
+    "title": "Absence of \u03b3-sarcoglycan alters the response of p70S6 kinase to mechanical perturbation in murine skeletal muscle",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC4103452",
+    "title": "A method for preparing spaceflight RNAlater-fixed Arabidopsis thaliana (Brassicaceae) tissue for scanning electron microscopy1",
+    "cited": [
+      "PMC11869762"
+    ],
+    "cited_by": [
+      "PMC5397022",
+      "PMC9701605"
+    ]
+  },
+  {
+    "id": "PMC4136787",
+    "title": "Mice in Bion-M 1 Space Mission: Training and Selection",
+    "cited": [
+      "PMC3792163"
+    ],
+    "cited_by": [
+      "10285634",
+      "7138367",
+      "PMC11940681",
+      "PMC5460236",
+      "PMC6379395",
+      "PMC7012842",
+      "PMC9139491"
+    ]
+  },
+  {
+    "id": "PMC4150462",
+    "title": "Endoplasmic reticulum\u2014shape and function in stress translation",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC4187166",
+    "title": "Host-Microbe Interactions in Microgravity: Assessment and Implications",
+    "cited": [
+      "PMC6143729"
+    ],
+    "cited_by": [
+      "PMC7940393",
+      "PMC8211661",
+      "PMC9031868",
+      "PMC9389742"
+    ]
+  },
+  {
+    "id": "PMC4228280",
+    "title": "Effect of spaceflight on Pseudomonas aeruginosa final cell density is modulated by nutrient and oxygen availability",
+    "cited": [
+      "PMC3639165"
+    ],
+    "cited_by": [
+      "PMC4923109",
+      "PMC5817088",
+      "PMC7940393",
+      "PMC9502502"
+    ]
+  },
+  {
+    "id": "PMC4309212",
+    "title": "Genes Required for Survival in Microgravity Revealed by Genome-Wide Yeast Deletion Collections Cultured during Spaceflight",
+    "cited": [],
+    "cited_by": [
+      "PMC6321533",
+      "PMC6560652",
+      "PMC7261848"
+    ]
+  },
+  {
+    "id": "PMC4309301",
+    "title": "A Tissue Retrieval and Postharvest Processing Regimen for Rodent Reproductive Tissues Compatible with Long-Term Storage on the International Space Station and Postflight Biospecimen Sharing Program",
+    "cited": [],
+    "cited_by": [
+      "PMC5132293",
+      "PMC9701605"
+    ]
+  },
+  {
+    "id": "PMC4321547",
+    "title": "Natural variation in the expression of ORGANIC CATION TRANSPORTER 1 affects root length responses to cadaverine in Arabidopsis",
+    "cited": [],
+    "cited_by": [
+      "PMC8518694"
+    ]
+  },
+  {
+    "id": "PMC4411111",
+    "title": "REGULATOR OF BULB BIOGENESIS1 (RBB1) Is Involved in Vacuole Bulb Formation in Arabidopsis",
+    "cited": [],
+    "cited_by": [
+      "PMC5181587",
+      "PMC7414185"
+    ]
+  },
+  {
+    "id": "PMC4411250",
+    "title": "The ongoing search for the molecular basis of plant osmosensing",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC4427280",
+    "title": "Recellularization of Decellularized Lung Scaffolds Is Enhanced by Dynamic Suspension Culture",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC4430214",
+    "title": "Post-Spaceflight (STS-135) Mouse Splenocytes Demonstrate Altered Activation Properties and Surface Molecule Expression",
+    "cited": [
+      "PMC3639165",
+      "PMC3792163"
+    ],
+    "cited_by": [
+      "5826609",
+      "PMC5045078"
+    ]
+  },
+  {
+    "id": "PMC4490751",
+    "title": "Ionizing Radiation Stimulates Expression of Pro-Osteoclastogenic Genes in Marrow and Skeletal Tissue",
+    "cited": [
+      "4042434",
+      "PMC3337602"
+    ],
+    "cited_by": [
+      "6036641",
+      "6548323",
+      "PMC4750446",
+      "PMC5666799",
+      "PMC5666834",
+      "PMC7162976"
+    ]
+  },
+  {
+    "id": "PMC4494396",
+    "title": "Nature of Pre-Earthquake Phenomena and their Effects on Living Organisms",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC4507784",
+    "title": "Brassinazole resistant 1 (BZR1)-dependent brassinosteroid signalling pathway leads to ectopic activation of quiescent cell division and suppresses columella stem cell differentiation",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC4624184",
+    "title": "Microbiomes of the dust particles collected from the International Space Station and Spacecraft Assembly Facilities",
+    "cited": [],
+    "cited_by": [
+      "10308117",
+      "9098231",
+      "9116463",
+      "PMC10848226",
+      "PMC11126634",
+      "PMC4923109",
+      "PMC4945788",
+      "PMC5504618",
+      "PMC5817088",
+      "PMC6143729",
+      "PMC6452512",
+      "PMC6529585",
+      "PMC7067979",
+      "PMC7326050",
+      "PMC7677455",
+      "PMC7937622",
+      "PMC8005752",
+      "PMC8012687",
+      "PMC8875396",
+      "PMC9241228",
+      "PMC9258157",
+      "PMC9503880"
+    ]
+  },
+  {
+    "id": "PMC4642138",
+    "title": "Gravitropism and Lateral Root Emergence are Dependent on the Trans-Golgi Network Protein TNO1",
+    "cited": [],
+    "cited_by": [
+      "PMC5387210"
+    ]
+  },
+  {
+    "id": "PMC4647464",
+    "title": "An extensive allelic series of Drosophila kae1 mutants reveals diverse and tissue-specific requirements for t6A biogenesis",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC4750446",
+    "title": "Dried plum diet protects from bone loss caused by ionizing radiation",
+    "cited": [
+      "PMC3337602",
+      "PMC3630201",
+      "PMC4490751"
+    ],
+    "cited_by": [
+      "6036641",
+      "6599637",
+      "8274610",
+      "PMC5666799",
+      "PMC5666834",
+      "PMC7162976",
+      "PMC7599661",
+      "PMC9832585"
+    ]
+  },
+  {
+    "id": "PMC4923109",
+    "title": "Cultivation of Staphylococcus epidermidis in the Human Spaceflight Environment Leads to Alterations in the Frequency and Spectrum of Spontaneous Rifampicin-Resistance Mutations in the rpoB Gene",
+    "cited": [
+      "10712242",
+      "PMC4228280",
+      "PMC4624184"
+    ],
+    "cited_by": [
+      "PMC5817088",
+      "PMC7000411",
+      "PMC9031868"
+    ]
+  },
+  {
+    "id": "PMC4945788",
+    "title": "Draft Genome Sequences of Two Aspergillus fumigatus Strains, Isolated from the International Space Station",
+    "cited": [
+      "PMC4624184"
+    ],
+    "cited_by": [
+      "10628120",
+      "6952069"
+    ]
+  },
+  {
+    "id": "PMC4964660",
+    "title": "Apollo Lunar Astronauts Show Higher Cardiovascular Disease Mortality: Possible Deep Space Radiation Effects on the Vascular Endothelium",
+    "cited": [],
+    "cited_by": [
+      "8274610",
+      "PMC11166909",
+      "PMC5666834",
+      "PMC5865701",
+      "PMC7599661",
+      "PMC7667275"
+    ]
+  },
+  {
+    "id": "PMC4985531",
+    "title": "Hypothalamic Leptin Gene Therapy Reduces Bone Marrow Adiposity in ob/ob Mice Fed Regular and High-Fat Diets",
+    "cited": [
+      "3564669",
+      "4161659",
+      "5421618"
+    ],
+    "cited_by": [
+      "5771473",
+      "PMC10889206",
+      "PMC6597714",
+      "PMC9582271"
+    ]
+  },
+  {
+    "id": "PMC5045078",
+    "title": "Changes in the distribution and function of leukocytes after whole-body iron ion irradiation",
+    "cited": [
+      "PMC3792163",
+      "PMC4430214"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC5116466",
+    "title": "Corrigendum: High atomic weight, high-energy radiation (HZE) induces transcriptional responses shared with conventional stresses in addition to a core \u201cDSB\u201d response specific to clastogenic treatments",
+    "cited": [],
+    "cited_by": [
+      "PMC7076552",
+      "PMC8234954"
+    ]
+  },
+  {
+    "id": "PMC5132293",
+    "title": "Preservation of Multiple Mammalian Tissues to Maximize Science Return from Ground Based and Spaceflight Experiments",
+    "cited": [
+      "PMC4309301"
+    ],
+    "cited_by": [
+      "PMC7012842",
+      "PMC7756143",
+      "PMC7954810",
+      "PMC9701605"
+    ]
+  },
+  {
+    "id": "PMC5181587",
+    "title": "Wortmannin-induced vacuole fusion enhances amyloplast dynamics in Arabidopsis zigzag1 hypocotyls",
+    "cited": [
+      "PMC4411111",
+      "PMC8716943"
+    ],
+    "cited_by": [
+      "PMC9445043"
+    ]
+  },
+  {
+    "id": "PMC5201052",
+    "title": "Draft Genome Sequences of Biosafety Level 2 Opportunistic Pathogens Isolated from the Environmental Surfaces of the International Space Station",
+    "cited": [],
+    "cited_by": [
+      "10308117",
+      "10628120",
+      "PMC8468678"
+    ]
+  },
+  {
+    "id": "PMC5286820",
+    "title": "Skewing in Arabidopsis roots involves disparate environmental signaling pathways",
+    "cited": [
+      "PMC11869762",
+      "PMC5387210"
+    ],
+    "cited_by": [
+      "PMC5491145",
+      "PMC6240453",
+      "PMC6348315",
+      "PMC7064724"
+    ]
+  },
+  {
+    "id": "PMC5387210",
+    "title": "TNO1, a TGN-localized SNARE-interacting protein, modulates root skewing in Arabidopsis thaliana",
+    "cited": [
+      "PMC4642138"
+    ],
+    "cited_by": [
+      "PMC5286820",
+      "PMC7064724"
+    ]
+  },
+  {
+    "id": "PMC5389344",
+    "title": "Bone Marrow Adipose Tissue Deficiency Increases Disuse-Induced Bone Loss in Male Mice",
+    "cited": [
+      "3564669",
+      "5421618",
+      "PMC5515514"
+    ],
+    "cited_by": [
+      "6548323",
+      "PMC10889206",
+      "PMC6597714",
+      "PMC6865368",
+      "PMC9582271"
+    ]
+  },
+  {
+    "id": "PMC5391430",
+    "title": "Draft Genome Sequences of Several Fungal Strains Selected for Exposure to Microgravity at the International Space Station",
+    "cited": [],
+    "cited_by": [
+      "PMC5958250"
+    ]
+  },
+  {
+    "id": "PMC5397022",
+    "title": "Transcriptome and proteome responses in RNAlater preserved tissue of Arabidopsis thaliana",
+    "cited": [
+      "10712242",
+      "PMC4103452"
+    ],
+    "cited_by": [
+      "10712242",
+      "PMC5587110",
+      "PMC7251690",
+      "PMC7733874",
+      "PMC8234954",
+      "PMC9701605"
+    ]
+  },
+  {
+    "id": "PMC5443495",
+    "title": "Is spaceflight-induced immune dysfunction linked to systemic changes in metabolism?",
+    "cited": [
+      "4653813",
+      "PMC3792163",
+      "PMC6915713"
+    ],
+    "cited_by": [
+      "7870178",
+      "8274610",
+      "PMC11166655",
+      "PMC11166909",
+      "PMC11362537",
+      "PMC5666744",
+      "PMC6321533",
+      "PMC6337482",
+      "PMC6915713",
+      "PMC7012842",
+      "PMC7072278",
+      "PMC7756143",
+      "PMC7756144",
+      "PMC8169688",
+      "PMC8260663",
+      "PMC8441986"
+    ]
+  },
+  {
+    "id": "PMC5460135",
+    "title": "Investigation of simulated microgravity effects on Streptococcus mutans physiology and global gene expression",
+    "cited": [
+      "PMC3639165",
+      "PMC3851762"
+    ],
+    "cited_by": [
+      "PMC8005752",
+      "PMC9258157"
+    ]
+  },
+  {
+    "id": "PMC5460236",
+    "title": "From the bench to exploration medicine: NASA life sciences translational research for human exploration and habitation missions",
+    "cited": [
+      "4110898",
+      "6981245",
+      "PMC3630201",
+      "PMC4136787",
+      "PMC7000411"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC5460239",
+    "title": "Interplay of space radiation and microgravity in DNA damage and DNA damage response",
+    "cited": [],
+    "cited_by": [
+      "PMC11166909",
+      "PMC6387434",
+      "PMC7072278",
+      "PMC7555395",
+      "PMC7943786",
+      "PMC8113475",
+      "PMC9267413",
+      "PMC9547011"
+    ]
+  },
+  {
+    "id": "PMC5460263",
+    "title": "Three-dimensional organotypic co-culture model of intestinal epithelial cells and macrophages to study Salmonella enterica colonization patterns",
+    "cited": [
+      "4096993",
+      "PMC3012082"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC5470433",
+    "title": "Data for characterization of SALK_084889, a T-DNA insertion line of Arabidopsis thaliana",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC5485990",
+    "title": "Transcriptomics, NF-\u03baB Pathway, and Their Potential Spaceflight-Related Health Consequences",
+    "cited": [
+      "PMC3792163",
+      "PMC7467030"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC5491145",
+    "title": "Genetic dissection of the Arabidopsis spaceflight transcriptome: Are some responses dispensable for the physiological adaptation of plants to spaceflight?",
+    "cited": [
+      "10058394",
+      "10712242",
+      "PMC11869762",
+      "PMC5286820",
+      "PMC5515520"
+    ],
+    "cited_by": [
+      "10027818",
+      "10058394",
+      "10712242",
+      "10800490",
+      "PMC6240453",
+      "PMC6348315",
+      "PMC6359015",
+      "PMC6447593",
+      "PMC7064724",
+      "PMC7076552",
+      "PMC7251690",
+      "PMC7996555",
+      "PMC8234954",
+      "PMC8475764",
+      "PMC8539686",
+      "PMC9098553"
+    ]
+  },
+  {
+    "id": "PMC5498037",
+    "title": "Effects of low-dose rate \u03b3-irradiation combined with simulated microgravity on markers of oxidative stress, DNA methylation potential, and remodeling in the mouse heart",
+    "cited": [],
+    "cited_by": [
+      "PMC6747492"
+    ]
+  },
+  {
+    "id": "PMC5504618",
+    "title": "Human presence impacts fungal diversity of inflated lunar/Mars analog habitat",
+    "cited": [
+      "PMC4624184"
+    ],
+    "cited_by": [
+      "10422843",
+      "PMC6452512",
+      "PMC6529585"
+    ]
+  },
+  {
+    "id": "PMC5515506",
+    "title": "Effects of angular frequency during clinorotation on mesenchymal stem cell morphology and migration",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC5515514",
+    "title": "Spaceflight-induced vertebral bone loss in ovariectomized rats is associated with increased bone marrow adiposity and no change in bone formation",
+    "cited": [
+      "PMC11166981"
+    ],
+    "cited_by": [
+      "PMC5389344",
+      "PMC6597714",
+      "PMC6865368",
+      "PMC7907224",
+      "PMC9582271"
+    ]
+  },
+  {
+    "id": "PMC5515519",
+    "title": "Evaluation of rodent spaceflight in the NASA animal enclosure module for an extended operational period (up to 35 days)",
+    "cited": [
+      "4110898",
+      "6981245",
+      "PMC11988870"
+    ],
+    "cited_by": [
+      "PMC11941215",
+      "PMC6915713",
+      "PMC7012842",
+      "PMC7733874",
+      "PMC7907224"
+    ]
+  },
+  {
+    "id": "PMC5515520",
+    "title": "The effect of spaceflight on the gravity-sensing auxin gradient of roots: GFP reporter gene microscopy on orbit",
+    "cited": [
+      "10058394",
+      "10712242",
+      "PMC11869762"
+    ],
+    "cited_by": [
+      "PMC5491145",
+      "PMC6240453",
+      "PMC6348315",
+      "PMC6447593",
+      "PMC7064724",
+      "PMC8475764",
+      "PMC9445043"
+    ]
+  },
+  {
+    "id": "PMC5515531",
+    "title": "Exposure of Mycobacterium marinum to low-shear modeled microgravity: effect on growth, the transcriptome and survival under stress",
+    "cited": [
+      "PMC4085587"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC5523082",
+    "title": "Spatial regulation of a common precursor from two distinct genes generates metabolite diversity\u2020",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC5552977",
+    "title": "Draft Genome Sequences from a Novel Clade of Bacillus cereus\u00a0Sensu Lato Strains, Isolated from the International Space Station",
+    "cited": [],
+    "cited_by": [
+      "10308117",
+      "10628120",
+      "6952069"
+    ]
+  },
+  {
+    "id": "PMC5578834",
+    "title": "Draft Genome Sequence of Solibacillus kalamii, Isolated from an Air Filter Aboard the International Space Station",
+    "cited": [],
+    "cited_by": [
+      "10628120",
+      "PMC8005752"
+    ]
+  },
+  {
+    "id": "PMC5580210",
+    "title": "Erratum to: Whole metagenome profiles of particulates collected from the International Space Station",
+    "cited": [],
+    "cited_by": [
+      "PMC11166662",
+      "PMC6529585",
+      "PMC7829349",
+      "PMC7937622",
+      "PMC8086211",
+      "PMC8537831",
+      "PMC9258157",
+      "PMC9400218",
+      "PMC9583032"
+    ]
+  },
+  {
+    "id": "PMC5587110",
+    "title": "Microgravity validation of a novel system for RNA isolation and multiplex quantitative real time PCR analysis of gene expression on the International Space Station",
+    "cited": [
+      "PMC3630201",
+      "PMC5397022",
+      "PMC7998608"
+    ],
+    "cited_by": [
+      "10261121"
+    ]
+  },
+  {
+    "id": "PMC5614317",
+    "title": "Real-time In Vivo Recording of Arabidopsis Calcium Signals During Insect Feeding Using a Fluorescent Biosensor",
+    "cited": [],
+    "cited_by": [
+      "PMC7503278"
+    ]
+  },
+  {
+    "id": "PMC5666744",
+    "title": "Spaceflight Activates Autophagy Programs and the Proteasome in Mouse Liver",
+    "cited": [
+      "PMC11988870",
+      "PMC3337602",
+      "PMC3630201",
+      "PMC5443495",
+      "PMC6915713",
+      "PMC7998608"
+    ],
+    "cited_by": [
+      "6981245",
+      "PMC11362537",
+      "PMC11988970",
+      "PMC6321533",
+      "PMC6337482",
+      "PMC6915713",
+      "PMC7072278",
+      "PMC7890410",
+      "PMC8396460"
+    ]
+  },
+  {
+    "id": "PMC5666799",
+    "title": "Dose- and Ion-Dependent Effects in the Oxidative Stress Response to Space-Like Radiation Exposure in the Skeletal System",
+    "cited": [
+      "4042434",
+      "PMC3337602",
+      "PMC4490751",
+      "PMC4750446"
+    ],
+    "cited_by": [
+      "6036641",
+      "8274610",
+      "PMC7162976"
+    ]
+  },
+  {
+    "id": "PMC5666834",
+    "title": "Redox Signaling and Its Impact on Skeletal and Vascular Responses to Spaceflight",
+    "cited": [
+      "PMC11579474",
+      "PMC11747068",
+      "PMC3337602",
+      "PMC4490751",
+      "PMC4750446",
+      "PMC4964660"
+    ],
+    "cited_by": [
+      "8274610",
+      "PMC11166946",
+      "PMC11659408"
+    ]
+  },
+  {
+    "id": "PMC5672023",
+    "title": "Adaptive Changes in the Vestibular System of Land Snail to a 30-Day Spaceflight and Readaptation on Return to Earth",
+    "cited": [
+      "PMC3066201"
+    ],
+    "cited_by": [
+      "PMC6204554"
+    ]
+  },
+  {
+    "id": "PMC5761896",
+    "title": "Characterization of the naive murine antibody repertoire using unamplified high-throughput sequencing",
+    "cited": [
+      "5736159",
+      "5826609"
+    ],
+    "cited_by": [
+      "6366624",
+      "PMC10996920"
+    ]
+  },
+  {
+    "id": "PMC5805884",
+    "title": "Draft Genome Sequences of Acinetobacter and Bacillus Strains Isolated from Spacecraft-Associated Surfaces",
+    "cited": [],
+    "cited_by": [
+      "10628120",
+      "PMC11451251"
+    ]
+  },
+  {
+    "id": "PMC5817088",
+    "title": "Alterations in the Spectrum of Spontaneous Rifampicin-Resistance Mutations in the Bacillus subtilis rpoB Gene after Cultivation in the Human Spaceflight Environment",
+    "cited": [
+      "10712242",
+      "PMC4228280",
+      "PMC4624184",
+      "PMC4923109"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC5864415",
+    "title": "KatharoSeq Enables High-Throughput Microbiome Analysis from Low-Biomass Samples",
+    "cited": [
+      "10370681"
+    ],
+    "cited_by": [
+      "PMC10848226"
+    ]
+  },
+  {
+    "id": "PMC5865701",
+    "title": "Vive la radior\u00e9sistance!: converging research in radiobiology and biogerontology to enhance human radioresistance for deep space exploration and colonization",
+    "cited": [
+      "PMC4964660"
+    ],
+    "cited_by": [
+      "PMC11166943",
+      "PMC11263583",
+      "PMC9267413"
+    ]
+  },
+  {
+    "id": "PMC5896955",
+    "title": "The signaling lipid sphingosine 1-phosphate regulates mechanical pain",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC5955502",
+    "title": "Cytoskeleton structure and total methylation of mouse cardiac and lung tissue during space flight",
+    "cited": [],
+    "cited_by": [
+      "PMC7012842",
+      "PMC8396460"
+    ]
+  },
+  {
+    "id": "PMC5958250",
+    "title": "Draft Genome Sequences of Two Fusarium oxysporum Isolates Cultured from Infected Zinnia hybrida Plants Grown on the International Space Station",
+    "cited": [
+      "PMC5391430"
+    ],
+    "cited_by": [
+      "10284894",
+      "10308117",
+      "10628120",
+      "PMC6426649"
+    ]
+  },
+  {
+    "id": "PMC5996828",
+    "title": "Phenotypic characterization of an Arabidopsis T-DNA insertion line SALK_063500",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC6013642",
+    "title": "Draft Genome Sequence of a Clinical Isolate of Fusarium fujikuroi Isolated from a Male Patient with Acute Myeloid Leukemia",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC6062551",
+    "title": "Cardiovascular progenitor cells cultured aboard the International Space Station exhibit altered developmental and functional properties",
+    "cited": [
+      "PMC7998608"
+    ],
+    "cited_by": [
+      "8274610",
+      "PMC11339457",
+      "PMC11988870"
+    ]
+  },
+  {
+    "id": "PMC6069985",
+    "title": "Effects of liquid cultivation on gene expression and phenotype of C. elegans",
+    "cited": [],
+    "cited_by": [
+      "PMC9856674"
+    ]
+  },
+  {
+    "id": "PMC6081456",
+    "title": "Acceleration profiles and processing methods for parabolic flight",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC6124165",
+    "title": "Treatment With a Soluble Bone Morphogenetic Protein Type 1A Receptor (BMPR1A) Fusion Protein Increases Bone Mass and Bone Formation in Mice Subjected to Hindlimb Unloading",
+    "cited": [
+      "4118556"
+    ],
+    "cited_by": [
+      "PMC7235020",
+      "PMC8509868"
+    ]
+  },
+  {
+    "id": "PMC6143729",
+    "title": "Characterization of Aspergillus niger Isolated from the International Space Station",
+    "cited": [
+      "9116463",
+      "PMC3851762",
+      "PMC4624184"
+    ],
+    "cited_by": [
+      "9116463",
+      "PMC4187166",
+      "PMC6348315",
+      "PMC6529585",
+      "PMC7076552",
+      "PMC7326050",
+      "PMC8012687",
+      "PMC9695138"
+    ]
+  },
+  {
+    "id": "PMC6165321",
+    "title": "Impact of Spaceflight and Artificial Gravity on the Mouse Retina: Biochemical and Proteomic Analysis",
+    "cited": [],
+    "cited_by": [
+      "10503492",
+      "8274610",
+      "PMC11593819",
+      "PMC6547757",
+      "PMC7012842",
+      "PMC8220224"
+    ]
+  },
+  {
+    "id": "PMC6201722",
+    "title": "Utilization of single\u2010image normalized difference vegetation index (SI\u2010NDVI) for early plant stress detection",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC6204554",
+    "title": "Influence of Magnitude and Duration of Altered Gravity and Readaptation to 1 g on the Structure and Function of the Utricle in Toadfish, Opsanus tau",
+    "cited": [
+      "5899691",
+      "PMC3066201",
+      "PMC5672023"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC6213004",
+    "title": "Reactivation of Latent Epstein-Barr Virus: A Comparison after Exposure to Gamma, Proton, Carbon, and Iron Radiation",
+    "cited": [],
+    "cited_by": [
+      "PMC11477029"
+    ]
+  },
+  {
+    "id": "PMC6222041",
+    "title": "High-precision method for cyclic loading of small-animal vertebrae to assess bone quality",
+    "cited": [],
+    "cited_by": [
+      "6813909",
+      "PMC7162976"
+    ]
+  },
+  {
+    "id": "PMC6240453",
+    "title": "Comparing RNA\u2010Seq and microarray gene expression data in two zones of the Arabidopsis root apex relevant to spaceflight",
+    "cited": [
+      "10058394",
+      "10712242",
+      "PMC11869762",
+      "PMC5286820",
+      "PMC5491145",
+      "PMC5515520"
+    ],
+    "cited_by": [
+      "10027818",
+      "PMC7076552"
+    ]
+  },
+  {
+    "id": "PMC6251167",
+    "title": "Multi-drug resistant Enterobacter bugandensis species isolated from the International Space Station and comparative genomic analyses with human pathogenic strains",
+    "cited": [
+      "PMC9241228"
+    ],
+    "cited_by": [
+      "10233975",
+      "PMC6452512",
+      "PMC7393961",
+      "PMC7484075",
+      "PMC7516158",
+      "PMC7561690",
+      "PMC7595942",
+      "PMC7733874",
+      "PMC7829349",
+      "PMC8104057",
+      "PMC8754149",
+      "PMC9400218",
+      "PMC9743659"
+    ]
+  },
+  {
+    "id": "PMC6275019",
+    "title": "Synergistic Effects of Weightlessness, Isoproterenol, and Radiation on DNA Damage Response and Cytokine Production in Immune Cells",
+    "cited": [
+      "6981245",
+      "PMC11988870",
+      "PMC7998608"
+    ],
+    "cited_by": [
+      "PMC7667275"
+    ]
+  },
+  {
+    "id": "PMC6280456",
+    "title": "Correction to: Succession and persistence of microbial communities and antimicrobial resistance genes associated with International Space Station environmental surfaces",
+    "cited": [],
+    "cited_by": [
+      "10233975",
+      "10284894",
+      "10308117",
+      "10628120",
+      "10715203",
+      "PMC11096397",
+      "PMC11222149",
+      "PMC6426649",
+      "PMC6452512",
+      "PMC7677455",
+      "PMC7733874",
+      "PMC7829349",
+      "PMC7943786",
+      "PMC8099722",
+      "PMC8211661",
+      "PMC8468678",
+      "PMC8537831",
+      "PMC8754149",
+      "PMC8875396",
+      "PMC9031868",
+      "PMC9241228",
+      "PMC9258157",
+      "PMC9400218",
+      "PMC9503880",
+      "PMC9583032",
+      "PMC9743659"
+    ]
+  },
+  {
+    "id": "PMC6321533",
+    "title": "Effects of Space Flight on Mouse Liver versus Kidney: Gene Pathway Analyses",
+    "cited": [
+      "PMC4309212",
+      "PMC5443495",
+      "PMC5666744"
+    ],
+    "cited_by": [
+      "PMC11988970",
+      "PMC8396460"
+    ]
+  },
+  {
+    "id": "PMC6337482",
+    "title": "Proteomic Analysis of Mouse Brain Subjected to Spaceflight",
+    "cited": [
+      "PMC5443495",
+      "PMC5666744",
+      "PMC6915713"
+    ],
+    "cited_by": [
+      "10487739",
+      "10503492"
+    ]
+  },
+  {
+    "id": "PMC6348315",
+    "title": "A member of the CONSTANS-Like protein family is a putative regulator of reactive oxygen species homeostasis and spaceflight physiological adaptation",
+    "cited": [
+      "10058394",
+      "10712242",
+      "PMC11869762",
+      "PMC5286820",
+      "PMC5491145",
+      "PMC5515520",
+      "PMC6143729"
+    ],
+    "cited_by": [
+      "PMC7064724"
+    ]
+  },
+  {
+    "id": "PMC6359015",
+    "title": "HSFA2 Functions in the Physiological Adaptation of Undifferentiated Plant Cells to Spaceflight",
+    "cited": [
+      "10058394",
+      "10712242",
+      "PMC5491145"
+    ],
+    "cited_by": [
+      "PMC7064724",
+      "PMC7076552"
+    ]
+  },
+  {
+    "id": "PMC6372189",
+    "title": "A combined computational strategy of sequence and structural analysis predicts the existence of a functional eicosanoid pathway in Drosophila melanogaster",
+    "cited": [],
+    "cited_by": [
+      "PMC9865768"
+    ]
+  },
+  {
+    "id": "PMC6379395",
+    "title": "Articular cartilage and sternal fibrocartilage respond differently to extended microgravity",
+    "cited": [
+      "PMC4136787"
+    ],
+    "cited_by": [
+      "PMC11053165",
+      "PMC7012842",
+      "PMC8131644"
+    ]
+  },
+  {
+    "id": "PMC6386654",
+    "title": "Symbiotic organs shaped by distinct modes of genome evolution in cephalopods",
+    "cited": [],
+    "cited_by": [
+      "PMC11166944",
+      "PMC9023564",
+      "PMC9389742"
+    ]
+  },
+  {
+    "id": "PMC6387434",
+    "title": "GeneLab Database Analyses Suggest Long-Term Impact of Space Radiation on the Cardiovascular System by the Activation of FYN Through Reactive Oxygen Species",
+    "cited": [
+      "PMC5460239"
+    ],
+    "cited_by": [
+      "PMC11166944",
+      "PMC7072278",
+      "PMC7778922",
+      "PMC8396460",
+      "PMC8441986"
+    ]
+  },
+  {
+    "id": "PMC6426649",
+    "title": "Genomic Characterization and Virulence Potential of Two Fusarium oxysporum Isolates Cultured from the International Space Station",
+    "cited": [
+      "9116463",
+      "PMC5958250",
+      "PMC6280456"
+    ],
+    "cited_by": [
+      "10233975",
+      "10628120",
+      "PMC7829349",
+      "PMC8012687",
+      "PMC8537831"
+    ]
+  },
+  {
+    "id": "PMC6447593",
+    "title": "Spaceflight-induced alternative splicing during seedling development in Arabidopsis thaliana",
+    "cited": [
+      "10058394",
+      "10712242",
+      "PMC11869762",
+      "PMC5491145",
+      "PMC5515520"
+    ],
+    "cited_by": [
+      "PMC6746706",
+      "PMC7064724",
+      "PMC7076552",
+      "PMC8234954"
+    ]
+  },
+  {
+    "id": "PMC6452512",
+    "title": "Characterization of the total and viable bacterial and fungal communities associated with the International Space Station surfaces",
+    "cited": [
+      "PMC4624184",
+      "PMC5504618",
+      "PMC6251167",
+      "PMC6280456",
+      "PMC9241228"
+    ],
+    "cited_by": [
+      "10233975",
+      "10284894",
+      "10308117",
+      "10628120",
+      "10715203",
+      "PMC11222149",
+      "PMC11386075",
+      "PMC11451251",
+      "PMC7303416",
+      "PMC7317102",
+      "PMC7393961",
+      "PMC7484075",
+      "PMC7516158",
+      "PMC7561690",
+      "PMC7595942",
+      "PMC7677455",
+      "PMC7829349",
+      "PMC8005752",
+      "PMC8012687",
+      "PMC8099722",
+      "PMC8104057",
+      "PMC8468678",
+      "PMC8537831",
+      "PMC8754149",
+      "PMC8875396",
+      "PMC9031868",
+      "PMC9241228",
+      "PMC9258157",
+      "PMC9400218",
+      "PMC9503880",
+      "PMC9583032",
+      "PMC9701605",
+      "PMC9743659"
+    ]
+  },
+  {
+    "id": "PMC6529585",
+    "title": "Proteomic and Metabolomic Characteristics of Extremophilic Fungi Under Simulated Mars Conditions",
+    "cited": [
+      "9116463",
+      "PMC4624184",
+      "PMC5504618",
+      "PMC5580210",
+      "PMC6143729",
+      "PMC7326050"
+    ],
+    "cited_by": [
+      "10284894",
+      "10422843",
+      "PMC8012687"
+    ]
+  },
+  {
+    "id": "PMC6547757",
+    "title": "Characterization of mouse ocular response to a 35-day spaceflight mission: Evidence of blood-retinal barrier disruption and ocular adaptations",
+    "cited": [
+      "3856860",
+      "PMC6165321"
+    ],
+    "cited_by": [
+      "10138634",
+      "8274610",
+      "PMC11271499",
+      "PMC11593819",
+      "PMC7012842",
+      "PMC8131644",
+      "PMC8220224",
+      "PMC8400407"
+    ]
+  },
+  {
+    "id": "PMC6560652",
+    "title": "Physical Forces Modulate Oxidative Status and Stress Defense Meditated Metabolic Adaptation of Yeast Colonies: Spaceflight and Microgravity Simulations",
+    "cited": [
+      "PMC4309212"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC6597714",
+    "title": "Effect of Leptin Deficiency on the Skeletal Response to Hindlimb Unloading in Adult Male Mice",
+    "cited": [
+      "4161659",
+      "5288125",
+      "5421618",
+      "5771473",
+      "PMC4985531",
+      "PMC5389344",
+      "PMC5515514",
+      "PMC9784906"
+    ],
+    "cited_by": [
+      "PMC9582271"
+    ]
+  },
+  {
+    "id": "PMC6689164",
+    "title": "Reproducible changes in the gut microbiome suggest a shift in microbial and host metabolism during spaceflight",
+    "cited": [
+      "5826609"
+    ],
+    "cited_by": [
+      "PMC11362537",
+      "PMC7012842",
+      "PMC7072278",
+      "PMC7940393",
+      "PMC9031868",
+      "PMC9389742",
+      "PMC9576569"
+    ]
+  },
+  {
+    "id": "PMC6706399",
+    "title": "Longitudinal time course of muscle impairments during partial weight-bearing in rats",
+    "cited": [
+      "4118556"
+    ],
+    "cited_by": [
+      "8274610",
+      "PMC7235020",
+      "PMC7599661",
+      "PMC8493566"
+    ]
+  },
+  {
+    "id": "PMC6710492",
+    "title": "Turbidity matters: differential effect of a 2,4-D formulation on the structure of microbial communities from clear and turbid freshwater systems",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC6746706",
+    "title": "Spaceflight influences gene expression, photoreceptor integrity, and oxidative stress-related damage in the murine retina",
+    "cited": [
+      "PMC6447593",
+      "PMC6747492"
+    ],
+    "cited_by": [
+      "10138634",
+      "10487739",
+      "8274610",
+      "PMC11166911",
+      "PMC11233762",
+      "PMC11271499",
+      "PMC11593819",
+      "PMC7012842",
+      "PMC8220224",
+      "PMC8396460",
+      "PMC8430797",
+      "PMC9547011",
+      "PMC9701605"
+    ]
+  },
+  {
+    "id": "PMC6747492",
+    "title": "Mice Exposed to Combined Chronic Low-Dose Irradiation and Modeled Microgravity Develop Long-Term Neurological Sequelae",
+    "cited": [
+      "PMC5498037"
+    ],
+    "cited_by": [
+      "8274610",
+      "PMC11166911",
+      "PMC6746706",
+      "PMC7778922",
+      "PMC8169688",
+      "PMC9365836",
+      "PMC9547011"
+    ]
+  },
+  {
+    "id": "PMC6753329",
+    "title": "Influence of Social Isolation During Prolonged Simulated Weightlessness by Hindlimb Unloading",
+    "cited": [
+      "4118556",
+      "PMC11747068",
+      "PMC11929063",
+      "PMC3792163"
+    ],
+    "cited_by": [
+      "8274610",
+      "PMC11166655",
+      "PMC7599661",
+      "PMC7667275",
+      "PMC7756144",
+      "PMC8169688",
+      "PMC8260663",
+      "PMC8430797",
+      "PMC8441986",
+      "PMC9695374"
+    ]
+  },
+  {
+    "id": "PMC6865368",
+    "title": "Thermoneutral housing attenuates premature cancellous bone loss in male C57BL/6J mice",
+    "cited": [
+      "5288125",
+      "5421618",
+      "PMC5389344",
+      "PMC5515514"
+    ],
+    "cited_by": [
+      "PMC10889206",
+      "PMC8213760",
+      "PMC9582271"
+    ]
+  },
+  {
+    "id": "PMC6876156",
+    "title": "Swim exercise in Caenorhabditis elegans extends neuromuscular and gut healthspan, enhances learning ability, and protects against neurodegeneration",
+    "cited": [],
+    "cited_by": [
+      "PMC7890410"
+    ]
+  },
+  {
+    "id": "PMC6915713",
+    "title": "Multi-omics analysis of multiple missions to space reveal a theme of lipid dysregulation in mouse liver",
+    "cited": [
+      "PMC5443495",
+      "PMC5515519",
+      "PMC5666744",
+      "PMC8044432"
+    ],
+    "cited_by": [
+      "10487739",
+      "7870178",
+      "PMC11166981",
+      "PMC11263583",
+      "PMC11362537",
+      "PMC11748630",
+      "PMC11941215",
+      "PMC11988970",
+      "PMC5443495",
+      "PMC5666744",
+      "PMC6337482",
+      "PMC7012842",
+      "PMC7072278",
+      "PMC7756143",
+      "PMC7778922",
+      "PMC8430797",
+      "PMC9576569",
+      "PMC9964234"
+    ]
+  },
+  {
+    "id": "PMC6945029",
+    "title": "Immune Suppressive Extracellular Vesicle Proteins of Leptopilina heterotoma Are Encoded in the Wasp Genome",
+    "cited": [
+      "5659752"
+    ],
+    "cited_by": [
+      "10797188",
+      "PMC8191917"
+    ]
+  },
+  {
+    "id": "PMC6985101",
+    "title": "Author Correction: Multi-omics analysis of multiple missions to space reveal a theme of lipid dysregulation in mouse liver",
+    "cited": [],
+    "cited_by": [
+      "7870178",
+      "PMC11166981",
+      "PMC11263583",
+      "PMC11362537",
+      "PMC11748630",
+      "PMC11941215",
+      "PMC11988970",
+      "PMC7012842",
+      "PMC7072278",
+      "PMC7756143",
+      "PMC7778922",
+      "PMC8430797",
+      "PMC9576569",
+      "PMC9964234"
+    ]
+  },
+  {
+    "id": "PMC7000411",
+    "title": "Spaceflight and simulated microgravity conditions increase virulence of Serratia marcescens in the Drosophila melanogaster infection model",
+    "cited": [
+      "PMC3639165",
+      "PMC3901686",
+      "PMC4085587",
+      "PMC4923109"
+    ],
+    "cited_by": [
+      "10284894",
+      "10503492",
+      "10797188",
+      "PMC3639165",
+      "PMC3901686",
+      "PMC5460236",
+      "PMC7733874",
+      "PMC7940393",
+      "PMC8421509",
+      "PMC9031868",
+      "PMC9111996"
+    ]
+  },
+  {
+    "id": "PMC7010715",
+    "title": "Brassinosteroids Inhibit Autotropic Root Straightening by Modifying Filamentous-Actin Organization and Dynamics",
+    "cited": [
+      "PMC8716943"
+    ],
+    "cited_by": [
+      "PMC8716943"
+    ]
+  },
+  {
+    "id": "PMC7012842",
+    "title": "Validation of a New Rodent Experimental System to Investigate Consequences of Long Duration Space Habitation",
+    "cited": [
+      "4653813",
+      "5477841",
+      "PMC3792163",
+      "PMC4136787",
+      "PMC5132293",
+      "PMC5443495",
+      "PMC5515519",
+      "PMC5955502",
+      "PMC6165321",
+      "PMC6379395",
+      "PMC6547757",
+      "PMC6689164",
+      "PMC6746706",
+      "PMC6915713",
+      "PMC6985101"
+    ],
+    "cited_by": [
+      "10285634",
+      "PMC10996920",
+      "PMC11166946",
+      "PMC11166981",
+      "PMC11271499",
+      "PMC11940681",
+      "PMC11941215",
+      "PMC7733874",
+      "PMC7756143",
+      "PMC7954810",
+      "PMC8213760",
+      "PMC8430797",
+      "PMC9701605"
+    ]
+  },
+  {
+    "id": "PMC7055474",
+    "title": "In situ Linkage of Fungal and Bacterial Proliferation to Microbiologically Influenced Corrosion in B20 Biodiesel Storage Tanks",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC7064724",
+    "title": "Root Skewing-Associated Genes Impact the Spaceflight Response of Arabidopsis thaliana",
+    "cited": [
+      "10058394",
+      "10712242",
+      "PMC11869762",
+      "PMC5286820",
+      "PMC5387210",
+      "PMC5491145",
+      "PMC5515520",
+      "PMC6348315",
+      "PMC6359015",
+      "PMC6447593"
+    ],
+    "cited_by": [
+      "PMC8475764"
+    ]
+  },
+  {
+    "id": "PMC7067979",
+    "title": "Microbiological and Nutritional Analysis of Lettuce Crops Grown on the International Space Station",
+    "cited": [
+      "10780891",
+      "PMC4624184"
+    ],
+    "cited_by": [
+      "10308117",
+      "PMC11126634",
+      "PMC11386075",
+      "PMC7733874",
+      "PMC8211661",
+      "PMC8537831"
+    ]
+  },
+  {
+    "id": "PMC7072278",
+    "title": "NASA GeneLab Platform Utilized for Biological Response to Space Radiation in Animal Models",
+    "cited": [
+      "PMC3630201",
+      "PMC3792163",
+      "PMC5443495",
+      "PMC5460239",
+      "PMC5666744",
+      "PMC6387434",
+      "PMC6689164",
+      "PMC6915713",
+      "PMC6985101",
+      "PMC8044432"
+    ],
+    "cited_by": [
+      "10503492",
+      "PMC7778922",
+      "PMC8234954"
+    ]
+  },
+  {
+    "id": "PMC7076552",
+    "title": "Test of Arabidopsis Space Transcriptome: A Discovery Environment to Explore Multiple Plant Biology Spaceflight Experiments",
+    "cited": [
+      "10058394",
+      "10712242",
+      "PMC5116466",
+      "PMC5491145",
+      "PMC6143729",
+      "PMC6240453",
+      "PMC6359015",
+      "PMC6447593"
+    ],
+    "cited_by": [
+      "10284894",
+      "10712242",
+      "PMC7778922",
+      "PMC8475764",
+      "PMC8879990",
+      "PMC9098553",
+      "PMC9693084"
+    ]
+  },
+  {
+    "id": "PMC7118179",
+    "title": "Identification of Metagenome-Assembled Genomes Containing Antimicrobial Resistance Genes, Isolated from an Advanced Water Treatment Facility",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC7162976",
+    "title": "Dietary countermeasure mitigates simulated spaceflight-induced osteopenia in mice",
+    "cited": [
+      "PMC11747068",
+      "PMC4490751",
+      "PMC4750446",
+      "PMC5666799",
+      "PMC6222041"
+    ],
+    "cited_by": [
+      "8274610",
+      "PMC9163032"
+    ]
+  },
+  {
+    "id": "PMC7171750",
+    "title": "The influence of spaceflight on the astronaut salivary microbiome and the search for a microbiome biomarker for viral reactivation",
+    "cited": [],
+    "cited_by": [
+      "10284894",
+      "PMC11166662",
+      "PMC9031868",
+      "PMC9400218",
+      "PMC9583032"
+    ]
+  },
+  {
+    "id": "PMC7235020",
+    "title": "Dose-dependent skeletal deficits due to varied reductions in mechanical loading in rats",
+    "cited": [
+      "4118556",
+      "PMC6124165",
+      "PMC6706399"
+    ],
+    "cited_by": [
+      "8274610",
+      "PMC7599661"
+    ]
+  },
+  {
+    "id": "PMC7251690",
+    "title": "Spaceflight induces novel regulatory responses in Arabidopsis seedling as revealed by combined proteomic and transcriptomic analyses",
+    "cited": [
+      "10058394",
+      "PMC11869762",
+      "PMC5397022",
+      "PMC5491145"
+    ],
+    "cited_by": [
+      "10027818",
+      "10712242",
+      "10800490",
+      "PMC8475764",
+      "PMC8539686",
+      "PMC9098553"
+    ]
+  },
+  {
+    "id": "PMC7261848",
+    "title": "Competitive Growth Assay of Mutagenized Chlamydomonas reinhardtii Compatible With the International Space Station Veggie Plant Growth Chamber",
+    "cited": [
+      "10780891",
+      "PMC4309212"
+    ],
+    "cited_by": [
+      "10284894"
+    ]
+  },
+  {
+    "id": "PMC7264257",
+    "title": "Biomass Production of the EDEN ISS Space Greenhouse in Antarctica During the 2018 Experiment Phase",
+    "cited": [],
+    "cited_by": [
+      "PMC9098553"
+    ]
+  },
+  {
+    "id": "PMC7285199",
+    "title": "Tart Cherry Increases Lifespan in Caenorhabditis elegans by Altering Metabolic Signaling Pathways",
+    "cited": [
+      "6057834"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC7303416",
+    "title": "Draft Genome Sequences of Sphingomonas Species Associated with the International Space Station",
+    "cited": [
+      "PMC6452512"
+    ],
+    "cited_by": [
+      "10308117",
+      "10628120",
+      "PMC8754149",
+      "PMC9400218"
+    ]
+  },
+  {
+    "id": "PMC7317102",
+    "title": "Draft Genome Sequences of Tremellomycetes Strains Isolated from the International Space Station",
+    "cited": [
+      "PMC6452512"
+    ],
+    "cited_by": [
+      "10628120",
+      "PMC8875396",
+      "PMC9400218"
+    ]
+  },
+  {
+    "id": "PMC7326050",
+    "title": "Metabolomic Analysis of Aspergillus niger Isolated From the International Space Station Reveals Enhanced Production Levels of the Antioxidant Pyranonigrin A",
+    "cited": [
+      "9098231",
+      "PMC4624184",
+      "PMC6143729"
+    ],
+    "cited_by": [
+      "10284894",
+      "9116463",
+      "PMC6529585",
+      "PMC8012687"
+    ]
+  },
+  {
+    "id": "PMC7339929",
+    "title": "Simulated Microgravity Induces Regionally Distinct Neurovascular and Structural Remodeling of Skeletal Muscle and Cutaneous Arteries in the Rat",
+    "cited": [
+      "3856860",
+      "PMC11747068"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC7358545",
+    "title": "A Conditional Mutation in SCD1 Reveals Linkage Between PIN Protein Trafficking, Auxin Transport, Gravitropism, and Lateral Root Initiation",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC7393961",
+    "title": "Draft Genome Sequences of Rhodotorula mucilaginosa Strains Isolated from the International Space Station",
+    "cited": [
+      "PMC6251167",
+      "PMC6452512"
+    ],
+    "cited_by": [
+      "10308117",
+      "10628120"
+    ]
+  },
+  {
+    "id": "PMC7414185",
+    "title": "Tonoplast-localized Ca2+ pumps regulate Ca2+ signals during pattern-triggered immunity in Arabidopsis thaliana",
+    "cited": [
+      "PMC4411111"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC7415877",
+    "title": "Molecular Muscle Experiment: Hardware and Operational Lessons for Future Astrobiology Space Experiments",
+    "cited": [],
+    "cited_by": [
+      "10344948",
+      "PMC7890410",
+      "PMC8430797",
+      "PMC9640571"
+    ]
+  },
+  {
+    "id": "PMC7467030",
+    "title": "Hypotheses about sub-optimal hydration in the weeks before coronavirus disease (COVID-19) as a risk factor for dying from COVID-19",
+    "cited": [],
+    "cited_by": [
+      "PMC5485990"
+    ]
+  },
+  {
+    "id": "PMC7484075",
+    "title": "Draft Genome Sequences of Enterobacteriales Strains Isolated from the International Space Station",
+    "cited": [
+      "PMC6251167",
+      "PMC6452512"
+    ],
+    "cited_by": [
+      "10628120",
+      "PMC11096397"
+    ]
+  },
+  {
+    "id": "PMC7503278",
+    "title": "Cell Type-Specific Imaging of Calcium Signaling in Arabidopsis thaliana Seedling Roots Using GCaMP3",
+    "cited": [
+      "PMC11850895",
+      "PMC5614317"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC7516158",
+    "title": "Draft Genome Sequences of Lactobacillales Isolated from the International Space Station",
+    "cited": [
+      "PMC6251167",
+      "PMC6452512"
+    ],
+    "cited_by": [
+      "10628120"
+    ]
+  },
+  {
+    "id": "PMC7530743",
+    "title": "NemaLife chip: a micropillar-based microfluidic culture device optimized for aging studies in crawling C. elegans",
+    "cited": [],
+    "cited_by": [
+      "10751425",
+      "PMC9640571",
+      "PMC9862956"
+    ]
+  },
+  {
+    "id": "PMC7555395",
+    "title": "Simultaneous Exposure of Cultured Human Lymphoblastic Cells to Simulated Microgravity and Radiation Increases Chromosome Aberrations",
+    "cited": [
+      "PMC5460239"
+    ],
+    "cited_by": [
+      "PMC11941215"
+    ]
+  },
+  {
+    "id": "PMC7555797",
+    "title": "Changes in Nuclear Shape and Gene Expression in Response to Simulated Microgravity Are LINC Complex-Dependent",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC7561690",
+    "title": "Draft Genome Sequences of Klebsiella Species Isolated from the International Space Station",
+    "cited": [
+      "PMC6251167",
+      "PMC6452512"
+    ],
+    "cited_by": [
+      "10308117",
+      "10628120",
+      "10715203"
+    ]
+  },
+  {
+    "id": "PMC7595942",
+    "title": "Draft Genome Sequences of Bacillaceae Strains Isolated from the International Space Station",
+    "cited": [
+      "PMC6251167",
+      "PMC6452512"
+    ],
+    "cited_by": [
+      "10628120",
+      "PMC11096397"
+    ]
+  },
+  {
+    "id": "PMC7599661",
+    "title": "Approaching Gravity as a Continuum Using the Rat Partial Weight-Bearing Model",
+    "cited": [
+      "3856860",
+      "4118556",
+      "PMC11579474",
+      "PMC11747068",
+      "PMC12034070",
+      "PMC4750446",
+      "PMC4964660",
+      "PMC6706399",
+      "PMC6753329",
+      "PMC7235020"
+    ],
+    "cited_by": [
+      "10831389",
+      "8274610"
+    ]
+  },
+  {
+    "id": "PMC7667275",
+    "title": "Neutrophil-to-Lymphocyte Ratio: A Biomarker to Monitor the Immune Status of Astronauts",
+    "cited": [
+      "PMC11747068",
+      "PMC4964660",
+      "PMC6275019",
+      "PMC6753329"
+    ],
+    "cited_by": [
+      "PMC11022651",
+      "PMC7756144",
+      "PMC8169688",
+      "PMC8260663",
+      "PMC8430797",
+      "PMC9695374"
+    ]
+  },
+  {
+    "id": "PMC7677455",
+    "title": "Assessing the Risk of Transfer of Microorganisms at the International Space Station Due to Cargo Delivery by Commercial Resupply Vehicles",
+    "cited": [
+      "PMC4624184",
+      "PMC6280456",
+      "PMC6452512"
+    ],
+    "cited_by": [
+      "10628120",
+      "PMC9031868"
+    ]
+  },
+  {
+    "id": "PMC7733874",
+    "title": "A New Era for Space Life Science: International Standards for Space Omics Processing",
+    "cited": [
+      "PMC3851762",
+      "PMC5397022",
+      "PMC5515519",
+      "PMC6251167",
+      "PMC6280456",
+      "PMC7000411",
+      "PMC7012842",
+      "PMC7067979",
+      "PMC8044432"
+    ],
+    "cited_by": [
+      "10344948",
+      "10503492",
+      "10605753",
+      "PMC11263583",
+      "PMC7828077",
+      "PMC8430797",
+      "PMC9583032"
+    ]
+  },
+  {
+    "id": "PMC7733933",
+    "title": "Desiccation Mitigates Heat Stress in the Resurrection Fern, Pleopeltis polypodioides",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC7756143",
+    "title": "RNAseq Analysis of Rodent Spaceflight Experiments Is Confounded by Sample Collection Techniques",
+    "cited": [
+      "5736159",
+      "5826609",
+      "6343501",
+      "PMC5132293",
+      "PMC5443495",
+      "PMC6915713",
+      "PMC6985101",
+      "PMC7012842",
+      "PMC8044432"
+    ],
+    "cited_by": [
+      "10503492",
+      "PMC8044432",
+      "PMC8113475",
+      "PMC9701605"
+    ]
+  },
+  {
+    "id": "PMC7756144",
+    "title": "Beyond Low-Earth Orbit: Characterizing Immune and microRNA Differentials following Simulated Deep Spaceflight Conditions in Mice",
+    "cited": [
+      "PMC5443495",
+      "PMC6753329",
+      "PMC7667275"
+    ],
+    "cited_by": [
+      "PMC11166655",
+      "PMC11166937",
+      "PMC11166944",
+      "PMC11166952",
+      "PMC8169688"
+    ]
+  },
+  {
+    "id": "PMC7778922",
+    "title": "NASA GeneLab: interfaces for the exploration of space omics data",
+    "cited": [
+      "PMC6387434",
+      "PMC6747492",
+      "PMC6915713",
+      "PMC6985101",
+      "PMC7072278",
+      "PMC7076552",
+      "PMC8044432"
+    ],
+    "cited_by": [
+      "10027818",
+      "10719374",
+      "PMC11053165",
+      "PMC11094041",
+      "PMC11096397",
+      "PMC11166911",
+      "PMC11166943",
+      "PMC11166946",
+      "PMC11166952",
+      "PMC11166969",
+      "PMC11166981",
+      "PMC11167097",
+      "PMC11357981",
+      "PMC11386075",
+      "PMC7828077",
+      "PMC8044432",
+      "PMC8430797",
+      "PMC9267413",
+      "PMC9547011",
+      "PMC9583032",
+      "PMC9701605"
+    ]
+  },
+  {
+    "id": "PMC7787258",
+    "title": "Prolonged Exposure to Microgravity Reduces Cardiac Contractility and Initiates Remodeling in Drosophila",
+    "cited": [
+      "PMC11998595"
+    ],
+    "cited_by": [
+      "10503492",
+      "10797188",
+      "PMC8396460",
+      "PMC9953463"
+    ]
+  },
+  {
+    "id": "PMC7825584",
+    "title": "Mechanotransduction in Prokaryotes: A Possible Mechanism of Spaceflight Adaptation",
+    "cited": [
+      "10058394",
+      "PMC3851762"
+    ],
+    "cited_by": [
+      "PMC11451251"
+    ]
+  },
+  {
+    "id": "PMC7828077",
+    "title": "Knowledge Network Embedding of Transcriptomic Data from Spaceflown Mice Uncovers Signs and Symptoms Associated with Terrestrial Diseases",
+    "cited": [
+      "PMC7733874",
+      "PMC7778922",
+      "PMC8441986"
+    ],
+    "cited_by": [
+      "PMC11166911"
+    ]
+  },
+  {
+    "id": "PMC7829349",
+    "title": "Genomic and Functional Characterization of Enterococcus faecalis Isolates Recovered From the International Space Station and Their Potential for Pathogenicity",
+    "cited": [
+      "PMC3639165",
+      "PMC5580210",
+      "PMC6251167",
+      "PMC6280456",
+      "PMC6426649",
+      "PMC6452512",
+      "PMC8421509",
+      "PMC9241228"
+    ],
+    "cited_by": [
+      "10284894",
+      "PMC11096397"
+    ]
+  },
+  {
+    "id": "PMC7890410",
+    "title": "Spaceflight affects neuronal morphology and alters transcellular degradation of neuronal debris in adult Caenorhabditis elegans",
+    "cited": [
+      "PMC5666744",
+      "PMC6876156",
+      "PMC7415877"
+    ],
+    "cited_by": [
+      "10344948",
+      "10605753",
+      "PMC9862956"
+    ]
+  },
+  {
+    "id": "PMC7907224",
+    "title": "Effects of spaceflight on cancellous and cortical bone in proximal femur in growing rats\u2606",
+    "cited": [
+      "PMC5515514",
+      "PMC5515519"
+    ],
+    "cited_by": [
+      "PMC11940681"
+    ]
+  },
+  {
+    "id": "PMC7937622",
+    "title": "MARSBOx: Fungal and Bacterial Endurance From a Balloon-Flown Analog Mission in the Stratosphere",
+    "cited": [
+      "PMC4624184",
+      "PMC5580210"
+    ],
+    "cited_by": [
+      "10284894"
+    ]
+  },
+  {
+    "id": "PMC7940393",
+    "title": "Modeled microgravity alters lipopolysaccharide and outer membrane vesicle production of the beneficial symbiont Vibrio fischeri",
+    "cited": [
+      "PMC4187166",
+      "PMC4228280",
+      "PMC6689164",
+      "PMC7000411"
+    ],
+    "cited_by": [
+      "PMC9389742"
+    ]
+  },
+  {
+    "id": "PMC7943786",
+    "title": "Evaluating the effect of spaceflight on the host\u2013pathogen interaction between human intestinal epithelial cells and Salmonella Typhimurium",
+    "cited": [
+      "PMC5460239",
+      "PMC6280456"
+    ],
+    "cited_by": [
+      "PMC11166662",
+      "PMC11166909",
+      "PMC9031868",
+      "PMC9583032"
+    ]
+  },
+  {
+    "id": "PMC7954810",
+    "title": "Effects of spaceflight aboard the International Space Station on mouse estrous cycle and ovarian gene expression",
+    "cited": [
+      "PMC11166981",
+      "PMC5132293",
+      "PMC7012842"
+    ],
+    "cited_by": [
+      "PMC11166911",
+      "PMC11166946",
+      "PMC11166981",
+      "PMC9267413",
+      "PMC9701605"
+    ]
+  },
+  {
+    "id": "PMC7996555",
+    "title": "Network Analysis of Gene Transcriptions of Arabidopsis thaliana in Spaceflight Microgravity",
+    "cited": [
+      "10058394",
+      "10712242",
+      "PMC5491145"
+    ],
+    "cited_by": [
+      "10780891",
+      "PMC8234954",
+      "PMC8475764"
+    ]
+  },
+  {
+    "id": "PMC7998608",
+    "title": "Selective Proliferation of Highly Functional Adipose-Derived Stem Cells in Microgravity Culture with Stirred Microspheres",
+    "cited": [],
+    "cited_by": [
+      "10813126",
+      "8274610",
+      "PMC11339457",
+      "PMC11988870",
+      "PMC5587110",
+      "PMC5666744",
+      "PMC6062551",
+      "PMC6275019",
+      "PMC9389742"
+    ]
+  },
+  {
+    "id": "PMC8005752",
+    "title": "Methylobacterium ajmalii sp. nov., Isolated From the International Space Station",
+    "cited": [
+      "PMC4624184",
+      "PMC5460135",
+      "PMC5578834",
+      "PMC6452512"
+    ],
+    "cited_by": [
+      "PMC11166662",
+      "PMC8537831",
+      "PMC8754149",
+      "PMC9031868",
+      "PMC9258157"
+    ]
+  },
+  {
+    "id": "PMC8012687",
+    "title": "Effects of Simulated Microgravity on the Proteome and Secretome of the Polyextremotolerant Black Fungus Knufia chersonesos",
+    "cited": [
+      "9098231",
+      "9116463",
+      "PMC3851762",
+      "PMC4624184",
+      "PMC6143729",
+      "PMC6426649",
+      "PMC6452512",
+      "PMC6529585",
+      "PMC7326050"
+    ],
+    "cited_by": [
+      "10284894"
+    ]
+  },
+  {
+    "id": "PMC8044432",
+    "title": "NASA GeneLab RNA-seq consensus pipeline: standardized processing of short-read RNA-seq data",
+    "cited": [
+      "PMC7756143",
+      "PMC7778922"
+    ],
+    "cited_by": [
+      "10027818",
+      "10344948",
+      "10503492",
+      "10605753",
+      "10719374",
+      "7870178",
+      "PMC11053165",
+      "PMC11094041",
+      "PMC11166648",
+      "PMC11166911",
+      "PMC11166946",
+      "PMC11166948",
+      "PMC11166967",
+      "PMC11166981",
+      "PMC11167097",
+      "PMC11263583",
+      "PMC11362537",
+      "PMC6915713",
+      "PMC7072278",
+      "PMC7733874",
+      "PMC7756143",
+      "PMC7778922",
+      "PMC8086211",
+      "PMC8113475",
+      "PMC8430797",
+      "PMC9547011",
+      "PMC9583032",
+      "PMC9701605"
+    ]
+  },
+  {
+    "id": "PMC8067245",
+    "title": "Growth and Antifungal Resistance of the Pathogenic Yeast, Candida Albicans, in the Microgravity Environment of the International Space Station: An Aggregate of Multiple Flight Experiences",
+    "cited": [
+      "PMC3851762"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC8086211",
+    "title": "Draft Genome Sequences of Various Bacterial Phyla Isolated from the International Space Station",
+    "cited": [
+      "PMC5580210",
+      "PMC8044432"
+    ],
+    "cited_by": [
+      "10308117",
+      "10628120",
+      "PMC11096397",
+      "PMC9241228"
+    ]
+  },
+  {
+    "id": "PMC8099722",
+    "title": "Reanalysis of the Mars500 experiment reveals common gut microbiome alterations in astronauts induced by long-duration confinement",
+    "cited": [
+      "PMC6280456",
+      "PMC6452512"
+    ],
+    "cited_by": [
+      "PMC11166655",
+      "PMC11362537",
+      "PMC9031868"
+    ]
+  },
+  {
+    "id": "PMC8104057",
+    "title": "Draft Genome Sequences of Aspergillus and Penicillium Species Isolated from the International Space Station and Crew Resupply Vehicle Capsule",
+    "cited": [
+      "PMC6251167",
+      "PMC6452512"
+    ],
+    "cited_by": [
+      "10308117"
+    ]
+  },
+  {
+    "id": "PMC8113475",
+    "title": "Rad-Bio-App: a discovery environment for biologists to explore spaceflight-related radiation exposures",
+    "cited": [
+      "PMC5460239",
+      "PMC7756143",
+      "PMC8044432"
+    ],
+    "cited_by": [
+      "10470837",
+      "PMC11053165"
+    ]
+  },
+  {
+    "id": "PMC8131644",
+    "title": "Spaceflight and hind limb unloading induces an arthritic phenotype in knee articular cartilage and menisci of rodents",
+    "cited": [
+      "6599637",
+      "7870178",
+      "PMC6379395",
+      "PMC6547757"
+    ],
+    "cited_by": [
+      "PMC9163032"
+    ]
+  },
+  {
+    "id": "PMC8169688",
+    "title": "Immunological and hematological outcomes following protracted low dose/low dose rate ionizing radiation and simulated microgravity",
+    "cited": [
+      "7870178",
+      "PMC5443495",
+      "PMC6747492",
+      "PMC6753329",
+      "PMC7667275",
+      "PMC7756144"
+    ],
+    "cited_by": [
+      "PMC9547011"
+    ]
+  },
+  {
+    "id": "PMC8183356",
+    "title": "Persistent NF-\u03baB activation in muscle stem cells induces proliferation-independent telomere shortening",
+    "cited": [],
+    "cited_by": [
+      "PMC8932657"
+    ]
+  },
+  {
+    "id": "PMC8185232",
+    "title": "New Insights Into Lignification via Network and Multi-Omics Analyses of Arogenate Dehydratase Knock-Out Mutants in Arabidopsis thaliana",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC8191917",
+    "title": "A parasitoid wasp of Drosophila employs preemptive and reactive strategies to deplete its host\u2019s blood cells",
+    "cited": [
+      "5659752",
+      "PMC6945029"
+    ],
+    "cited_by": [
+      "10797188",
+      "PMC9865768"
+    ]
+  },
+  {
+    "id": "PMC8211661",
+    "title": "Evaluating the lettuce metatranscriptome with MinION sequencing for future spaceflight food production applications",
+    "cited": [
+      "PMC4187166",
+      "PMC6280456",
+      "PMC7067979"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC8213760",
+    "title": "Evidence for increased thermogenesis in female C57BL/6J mice housed aboard the international space station",
+    "cited": [
+      "5421618",
+      "PMC6865368",
+      "PMC7012842"
+    ],
+    "cited_by": [
+      "PMC11941215"
+    ]
+  },
+  {
+    "id": "PMC8220224",
+    "title": "Spaceflight decelerates the epigenetic clock orchestrated with a global alteration in DNA methylome and transcriptome in the mouse retina",
+    "cited": [
+      "7870178",
+      "PMC6165321",
+      "PMC6547757",
+      "PMC6746706"
+    ],
+    "cited_by": [
+      "10789781",
+      "PMC11941215",
+      "PMC9547011"
+    ]
+  },
+  {
+    "id": "PMC8234954",
+    "title": "Detection of Genes in Arabidopsis thaliana L. Responding to DNA Damage from Radiation and Other Stressors in Spaceflight",
+    "cited": [
+      "10058394",
+      "10712242",
+      "PMC5116466",
+      "PMC5397022",
+      "PMC5491145",
+      "PMC6447593",
+      "PMC7072278",
+      "PMC7996555"
+    ],
+    "cited_by": [
+      "PMC8475764"
+    ]
+  },
+  {
+    "id": "PMC8260663",
+    "title": "Overexpression of catalase in mitochondria mitigates changes in hippocampal cytokine expression following simulated microgravity and isolation",
+    "cited": [
+      "PMC5443495",
+      "PMC6753329",
+      "PMC7667275"
+    ],
+    "cited_by": [
+      "PMC9695374"
+    ]
+  },
+  {
+    "id": "PMC8269219",
+    "title": "Correction for Vangay et al., \u201cMicrobiome Metadata Standards: Report of the National Microbiome Data Collaborative\u2019s Workshop and Follow-On Activities\u201d",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC8323809",
+    "title": "The rapid diagnosis and effective inhibition of coronavirus using spike antibody attached gold nanoparticles\u2020",
+    "cited": [],
+    "cited_by": [
+      "PMC8886715"
+    ]
+  },
+  {
+    "id": "PMC8364238",
+    "title": "Spatial and temporal localization of SPIRRIG and WAVE/SCAR reveal roles for these proteins in actin-mediated root hair development",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC8396460",
+    "title": "Spaceflight Modulates the Expression of Key Oxidative Stress and Cell Cycle Related Genes in Heart",
+    "cited": [
+      "7870178",
+      "PMC3630201",
+      "PMC3792163",
+      "PMC5666744",
+      "PMC5955502",
+      "PMC6321533",
+      "PMC6387434",
+      "PMC6746706",
+      "PMC7787258"
+    ],
+    "cited_by": [
+      "PMC11271499",
+      "PMC11353732",
+      "PMC9953463"
+    ]
+  },
+  {
+    "id": "PMC8400407",
+    "title": "Evaluating Ocular Response in the Retina and Optic Nerve Head after Single and Fractionated High-Energy Protons",
+    "cited": [
+      "PMC6547757"
+    ],
+    "cited_by": [
+      "PMC11593819"
+    ]
+  },
+  {
+    "id": "PMC8412175",
+    "title": "Human Neural Stem Cells Flown into Space Proliferate and Generate Young Neurons",
+    "cited": [
+      "7324008"
+    ],
+    "cited_by": [
+      "10813126",
+      "PMC11339457"
+    ]
+  },
+  {
+    "id": "PMC8421509",
+    "title": "Longitudinal characterization of multispecies microbial populations recovered from spaceflight potable water",
+    "cited": [
+      "PMC3639165",
+      "PMC3851762",
+      "PMC7000411"
+    ],
+    "cited_by": [
+      "10284894",
+      "PMC7829349"
+    ]
+  },
+  {
+    "id": "PMC8430797",
+    "title": "Mammalian and Invertebrate Models as Complementary Tools for Gaining Mechanistic Insight on Muscle Responses to Spaceflight",
+    "cited": [
+      "7870178",
+      "PMC6746706",
+      "PMC6753329",
+      "PMC6915713",
+      "PMC6985101",
+      "PMC7012842",
+      "PMC7415877",
+      "PMC7667275",
+      "PMC7733874",
+      "PMC7778922",
+      "PMC8044432"
+    ],
+    "cited_by": [
+      "10344948",
+      "PMC11166981",
+      "PMC9701605"
+    ]
+  },
+  {
+    "id": "PMC8441986",
+    "title": "Circulating miRNA Spaceflight Signature Reveals Targets for Countermeasure Development",
+    "cited": [
+      "PMC5443495",
+      "PMC6387434",
+      "PMC6753329"
+    ],
+    "cited_by": [
+      "PMC11166655",
+      "PMC11166662",
+      "PMC11166944",
+      "PMC11166946",
+      "PMC11166948",
+      "PMC11166952",
+      "PMC11167060",
+      "PMC7828077",
+      "PMC9583032",
+      "PMC9701605"
+    ]
+  },
+  {
+    "id": "PMC8450295",
+    "title": "Telomere length assessments of muscle stem cells in rodent and human skeletal muscle sections",
+    "cited": [],
+    "cited_by": [
+      "10504369"
+    ]
+  },
+  {
+    "id": "PMC8468678",
+    "title": "Simulated Microgravity Promotes Horizontal Gene Transfer of Antimicrobial Resistance Genes between Bacterial Genera in the Absence of Antibiotic Selective Pressure",
+    "cited": [
+      "PMC5201052",
+      "PMC6280456",
+      "PMC6452512",
+      "PMC9241228"
+    ],
+    "cited_by": [
+      "10284894",
+      "PMC9031868"
+    ]
+  },
+  {
+    "id": "PMC8475764",
+    "title": "Epigenomic Regulators Elongator Complex Subunit 2 and Methyltransferase 1 Differentially Condition the Spaceflight Response in Arabidopsis",
+    "cited": [
+      "10058394",
+      "PMC11869762",
+      "PMC5491145",
+      "PMC5515520",
+      "PMC7064724",
+      "PMC7076552",
+      "PMC7251690",
+      "PMC7996555",
+      "PMC8234954",
+      "PMC8716943"
+    ],
+    "cited_by": [
+      "10800490",
+      "PMC9693084"
+    ]
+  },
+  {
+    "id": "PMC8493566",
+    "title": "Hindlimb suspension in Wistar rats: Sex\u2010based differences in muscle response",
+    "cited": [
+      "PMC12034070",
+      "PMC6706399"
+    ],
+    "cited_by": [
+      "10831389"
+    ]
+  },
+  {
+    "id": "PMC8509868",
+    "title": "RNAseq and RNA molecular barcoding reveal differential gene expression in cortical bone following hindlimb unloading in female mice",
+    "cited": [
+      "4118556",
+      "PMC6124165"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC8518694",
+    "title": "Cadaverine regulates biotin synthesis to modulate primary root growth in Arabidopsis",
+    "cited": [
+      "PMC4321547"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC8537831",
+    "title": "Spatial Characterization of Microbial Communities on Multi-Species Leafy Greens Grown Simultaneously in the Vegetable Production Systems on the International Space Station",
+    "cited": [
+      "10780891",
+      "PMC5580210",
+      "PMC6280456",
+      "PMC6426649",
+      "PMC6452512",
+      "PMC7067979",
+      "PMC8005752"
+    ],
+    "cited_by": [
+      "10284894"
+    ]
+  },
+  {
+    "id": "PMC8539686",
+    "title": "Uncovering Transcriptional Responses to Fractional Gravity in Arabidopsis Roots",
+    "cited": [
+      "PMC5491145",
+      "PMC7251690"
+    ],
+    "cited_by": [
+      "10800490",
+      "PMC9861679"
+    ]
+  },
+  {
+    "id": "PMC8671758",
+    "title": "The Role of Estrogen Receptor \u03b1 in Response to Longitudinal Bone Growth in ob/ob Mice",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC8716943",
+    "title": "Bundling up the Role of the Actin Cytoskeleton in Primary Root Growth",
+    "cited": [
+      "PMC7010715"
+    ],
+    "cited_by": [
+      "PMC5181587",
+      "PMC7010715",
+      "PMC8475764"
+    ]
+  },
+  {
+    "id": "PMC8739323",
+    "title": "The smallest space miners: principles of space biomining",
+    "cited": [
+      "PMC3639165"
+    ],
+    "cited_by": [
+      "10030976",
+      "10432549",
+      "10470837"
+    ]
+  },
+  {
+    "id": "PMC8754149",
+    "title": "Genomic Characterization of Potential Plant Growth-Promoting Features of Sphingomonas Strains Isolated from the International Space Station",
+    "cited": [
+      "PMC6251167",
+      "PMC6280456",
+      "PMC6452512",
+      "PMC7303416",
+      "PMC8005752"
+    ],
+    "cited_by": [
+      "10233975",
+      "10628120"
+    ]
+  },
+  {
+    "id": "PMC8816950",
+    "title": "Production of reactive oxygen species and involvement of bioprotectants during anhydrobiosis in the tardigrade Paramacrobiotus spatialis",
+    "cited": [
+      "PMC11127935",
+      "PMC11930778"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC8875396",
+    "title": "Genomic Characterization of the Titan-like Cell Producing Naganishia tulchinskyi, the First Novel Eukaryote Isolated from the International Space Station",
+    "cited": [
+      "PMC4624184",
+      "PMC6280456",
+      "PMC6452512",
+      "PMC7317102"
+    ],
+    "cited_by": [
+      "10233975",
+      "10422843"
+    ]
+  },
+  {
+    "id": "PMC8879990",
+    "title": "Response of Arabidopsis thaliana and Mizuna Mustard Seeds to Simulated Space Radiation Exposures",
+    "cited": [
+      "PMC7076552"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC8886715",
+    "title": "Blocking SARS-CoV-2 Delta Variant (B.1.617.2) Spike Protein Receptor-Binding Domain Binding with the ACE2 Receptor of the Host Cell and Inhibiting Virus Infections Using Human Host Defense Peptide-Conjugated Graphene Quantum Dots",
+    "cited": [
+      "PMC8323809"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC8890767",
+    "title": "Safety and Pharmacokinetics of Intranasally Administered Heparin",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC8932657",
+    "title": "Piezo1 regulates the regenerative capacity of skeletal muscles via orchestration of stem cell morphological states",
+    "cited": [
+      "PMC8183356"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC9023564",
+    "title": "Emergence of novel cephalopod gene regulation and expression through large-scale genome reorganization",
+    "cited": [
+      "PMC6386654"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC9031868",
+    "title": "Understanding the Complexities and Changes of the Astronaut Microbiome for Successful Long-Duration Space Missions",
+    "cited": [
+      "9116463",
+      "PMC11988970",
+      "PMC3639165",
+      "PMC3851762",
+      "PMC4187166",
+      "PMC4923109",
+      "PMC6280456",
+      "PMC6452512",
+      "PMC6689164",
+      "PMC7000411",
+      "PMC7171750",
+      "PMC7677455",
+      "PMC7943786",
+      "PMC8005752",
+      "PMC8099722",
+      "PMC8468678",
+      "PMC9241228"
+    ],
+    "cited_by": [
+      "10284894"
+    ]
+  },
+  {
+    "id": "PMC9098553",
+    "title": "Plants grown in Apollo lunar regolith present stress-associated transcriptomes that inform prospects for lunar exploration",
+    "cited": [
+      "10058394",
+      "PMC5491145",
+      "PMC7076552",
+      "PMC7251690",
+      "PMC7264257"
+    ],
+    "cited_by": [
+      "10030976",
+      "10284894"
+    ]
+  },
+  {
+    "id": "PMC9105288",
+    "title": "Transcription Profile of Auxin Related Genes during Positively Gravitropic Hypocotyl Curvature of Brassica rapa",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC9108708",
+    "title": "A comprehensive SARS-CoV-2 and COVID-19 review, Part 1: Intracellular overdrive for SARS-CoV-2 infection",
+    "cited": [],
+    "cited_by": [
+      "10772081"
+    ]
+  },
+  {
+    "id": "PMC9111996",
+    "title": "Asparagine biosynthesis as a mechanism of increased host lethality induced by Serratia marcescens in simulated microgravity environments",
+    "cited": [
+      "PMC3901686",
+      "PMC4085587",
+      "PMC7000411"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC9139491",
+    "title": "Spaceflight-Associated Vascular Remodeling and Gene Expression in Mouse Calvaria",
+    "cited": [
+      "4110898",
+      "PMC4136787"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC9146534",
+    "title": "Three-Dimensional Kidney-on-a-Chip Assessment of Contrast-Induced Kidney Injury: Osmolality and Viscosity",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC9163032",
+    "title": "\u03b1Klotho decreases after reduced weight-bearing from both spaceflight and hindlimb unloading",
+    "cited": [
+      "7870178",
+      "PMC7162976",
+      "PMC8131644"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC9241228",
+    "title": "Microbial Tracking-2, a metagenomics analysis of bacteria and fungi onboard the International Space Station",
+    "cited": [
+      "PMC4624184",
+      "PMC6280456",
+      "PMC6452512",
+      "PMC8086211"
+    ],
+    "cited_by": [
+      "10284894",
+      "10308117",
+      "10628120",
+      "PMC11166662",
+      "PMC11451251",
+      "PMC6251167",
+      "PMC6452512",
+      "PMC7829349",
+      "PMC8468678",
+      "PMC9031868",
+      "PMC9400218"
+    ]
+  },
+  {
+    "id": "PMC9258157",
+    "title": "Metabolic modeling of the International Space Station microbiome reveals key microbial interactions",
+    "cited": [
+      "PMC4624184",
+      "PMC5460135",
+      "PMC5580210",
+      "PMC6280456",
+      "PMC6452512",
+      "PMC8005752"
+    ],
+    "cited_by": [
+      "10628120",
+      "10715203",
+      "PMC10848226",
+      "PMC11451251"
+    ]
+  },
+  {
+    "id": "PMC9267413",
+    "title": "Extraterrestrial Gynecology: Could Spaceflight Increase the Risk of Developing Cancer in Female Astronauts? An Updated Review",
+    "cited": [
+      "PMC11166981",
+      "PMC5460239",
+      "PMC5865701",
+      "PMC7778922",
+      "PMC7954810"
+    ],
+    "cited_by": [
+      "PMC11988970"
+    ]
+  },
+  {
+    "id": "PMC9365836",
+    "title": "Characterization of gene expression profiles in the mouse brain after 35 days of spaceflight mission",
+    "cited": [
+      "PMC6747492"
+    ],
+    "cited_by": [
+      "PMC11053165",
+      "PMC11166911",
+      "PMC11833055",
+      "PMC11941215"
+    ]
+  },
+  {
+    "id": "PMC9389742",
+    "title": "Modeled microgravity alters apoptotic gene expression and caspase activity in the squid-vibrio symbiosis",
+    "cited": [
+      "PMC4187166",
+      "PMC6386654",
+      "PMC6689164",
+      "PMC7940393",
+      "PMC7998608"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC9400218",
+    "title": "Machine learning algorithm to characterize antimicrobial resistance associated with the International Space Station surface microbiome",
+    "cited": [
+      "PMC11988970",
+      "PMC3639165",
+      "PMC5580210",
+      "PMC6251167",
+      "PMC6280456",
+      "PMC6452512",
+      "PMC7171750",
+      "PMC7303416",
+      "PMC7317102",
+      "PMC9241228"
+    ],
+    "cited_by": [
+      "10628120",
+      "PMC10960378",
+      "PMC11096397"
+    ]
+  },
+  {
+    "id": "PMC9410522",
+    "title": "Enabling Clonal Analyses of Yeast in Outer Space by Encapsulation and Desiccation in Hollow Microparticles",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC9445043",
+    "title": "Microgravity enhances the phenotype of Arabidopsis zigzag-1 and reduces the Wortmannin-induced vacuole fusion in root cells",
+    "cited": [
+      "10712242",
+      "PMC11869762",
+      "PMC5181587",
+      "PMC5515520"
+    ],
+    "cited_by": [
+      "10261121"
+    ]
+  },
+  {
+    "id": "PMC9487896",
+    "title": "Inhibition of SARS-CoV-2 wild-type (Wuhan-Hu-1) and Delta (B.1.617.2) strains by marine sulfated glycans",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC9502502",
+    "title": "Simulated Micro-, Lunar, and Martian Gravities on Earth\u2014Effects on Escherichia coli Growth, Phenotype, and Sensitivity to Antibiotics",
+    "cited": [
+      "PMC4228280"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC9503880",
+    "title": "Microbial Burden Estimation of Food Items, Built Environments, and the International Space Station Using Film Media",
+    "cited": [
+      "PMC11988970",
+      "PMC4624184",
+      "PMC6280456",
+      "PMC6452512"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC9547011",
+    "title": "A multi-omics longitudinal study of the murine retinal response to chronic low-dose irradiation and simulated microgravity",
+    "cited": [
+      "7870178",
+      "PMC5460239",
+      "PMC6746706",
+      "PMC6747492",
+      "PMC7778922",
+      "PMC8044432",
+      "PMC8169688",
+      "PMC8220224"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC9576569",
+    "title": "Muscle atrophy phenotype gene expression during spaceflight is linked to a metabolic crosstalk in both the liver and the muscle in mice",
+    "cited": [
+      "7870178",
+      "PMC6689164",
+      "PMC6915713",
+      "PMC6985101"
+    ],
+    "cited_by": [
+      "10605753",
+      "PMC11166946",
+      "PMC11362537",
+      "PMC11941215"
+    ]
+  },
+  {
+    "id": "PMC9582271",
+    "title": "Leptin and environmental temperature as determinants of bone marrow adiposity in female mice",
+    "cited": [
+      "3564669",
+      "4042434",
+      "5288125",
+      "5421618",
+      "6548323",
+      "PMC4985531",
+      "PMC5389344",
+      "PMC5515514",
+      "PMC6597714",
+      "PMC6865368",
+      "PMC9784906"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC9583032",
+    "title": "Routine omics collection is a golden opportunity for European human research in space and analog environments",
+    "cited": [
+      "7870178",
+      "PMC11988970",
+      "PMC5580210",
+      "PMC6280456",
+      "PMC6452512",
+      "PMC7171750",
+      "PMC7733874",
+      "PMC7778922",
+      "PMC7943786",
+      "PMC8044432",
+      "PMC8441986"
+    ],
+    "cited_by": [
+      "10605753",
+      "PMC11166943",
+      "PMC11166981",
+      "PMC11263583"
+    ]
+  },
+  {
+    "id": "PMC9617909",
+    "title": "High-gradient magnetic fields and starch metabolism: results from a space experiment",
+    "cited": [
+      "PMC12008199"
+    ],
+    "cited_by": [
+      "PMC9695138"
+    ]
+  },
+  {
+    "id": "PMC9640571",
+    "title": "Microfluidics-integrated spaceflight hardware for measuring muscle strength of Caenorhabditis elegans on the International Space Station",
+    "cited": [
+      "6057834",
+      "PMC7415877",
+      "PMC7530743"
+    ],
+    "cited_by": [
+      "10605753"
+    ]
+  },
+  {
+    "id": "PMC9693084",
+    "title": "Utilizing the KSC Fixation Tube to Conduct Human-Tended Plant Biology Experiments on a Suborbital Spaceflight",
+    "cited": [
+      "PMC7076552",
+      "PMC8475764"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC9695138",
+    "title": "Lipid Rafts and Plant Gravisensitivity",
+    "cited": [
+      "PMC6143729",
+      "PMC9617909"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC9695374",
+    "title": "Mitochondria-Targeted Human Catalase in the Mouse Longevity MCAT Model Mitigates Head-Tilt Bedrest-Induced Neuro-Inflammation in the Hippocampus",
+    "cited": [
+      "PMC11747068",
+      "PMC6753329",
+      "PMC7667275",
+      "PMC8260663"
+    ],
+    "cited_by": [
+      "PMC11353732"
+    ]
+  },
+  {
+    "id": "PMC9699585",
+    "title": "Space Microgravity Alters Neural Stem Cell Division: Implications for Brain Cancer Research on Earth and in Space",
+    "cited": [],
+    "cited_by": [
+      "PMC9953055"
+    ]
+  },
+  {
+    "id": "PMC9701605",
+    "title": "Challenges and considerations for single-cell and spatially resolved transcriptomics sample collection during spaceflight",
+    "cited": [
+      "10712242",
+      "7870178",
+      "PMC4103452",
+      "PMC4309301",
+      "PMC5132293",
+      "PMC5397022",
+      "PMC6452512",
+      "PMC6746706",
+      "PMC7012842",
+      "PMC7756143",
+      "PMC7778922",
+      "PMC7954810",
+      "PMC8044432",
+      "PMC8430797",
+      "PMC8441986"
+    ],
+    "cited_by": [
+      "PMC11166911"
+    ]
+  },
+  {
+    "id": "PMC9737020",
+    "title": "A New Role of NAP1L1 in Megakaryocytes and Human Platelets",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC9743659",
+    "title": "Multidrug-resistant Acinetobacter pittii is adapting to and exhibiting potential succession aboard the International Space Station",
+    "cited": [
+      "PMC11988970",
+      "PMC6251167",
+      "PMC6280456",
+      "PMC6452512"
+    ],
+    "cited_by": [
+      "10628120",
+      "PMC11096397",
+      "PMC11222149",
+      "PMC11451251"
+    ]
+  },
+  {
+    "id": "PMC9746133",
+    "title": "Spatial omics technologies at multimodal and single cell/subcellular level",
+    "cited": [],
+    "cited_by": []
+  },
+  {
+    "id": "PMC9784906",
+    "title": "Mannose Receptor Deficiency Impacts Bone Marrow and Circulating Immune Cells during High Fat Diet Induced Obesity",
+    "cited": [],
+    "cited_by": [
+      "6548323",
+      "PMC10889206",
+      "PMC6597714",
+      "PMC9582271"
+    ]
+  },
+  {
+    "id": "PMC9832585",
+    "title": "Inter-agency perspective: Translating advances in biomarker discovery and medical countermeasures development between terrestrial and space radiation environments",
+    "cited": [
+      "PMC4750446"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC9856674",
+    "title": "Transcriptomic Signature of the Simulated Microgravity Response in Caenorhabditis elegans and Comparison to Spaceflight Experiments",
+    "cited": [
+      "PMC6069985"
+    ],
+    "cited_by": [
+      "10344948",
+      "PMC11833055"
+    ]
+  },
+  {
+    "id": "PMC9861679",
+    "title": "Low-Speed Clinorotation of Brachypodium distachyon and Arabidopsis thaliana Seedlings Triggers Root Tip Curvatures That Are Reminiscent of Gravitropism",
+    "cited": [
+      "PMC8539686"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC9862956",
+    "title": "A Compact Imaging Platform for Conducting C. elegans Phenotypic Assays on Earth and in Spaceflight",
+    "cited": [
+      "6057834",
+      "PMC7530743",
+      "PMC7890410"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC9865768",
+    "title": "In Silico Analysis of a Drosophila Parasitoid Venom Peptide Reveals Prevalence of the Cation\u2013Polar\u2013Cation Clip Motif in Knottin Proteins",
+    "cited": [
+      "5659752",
+      "PMC6372189",
+      "PMC8191917"
+    ],
+    "cited_by": []
+  },
+  {
+    "id": "PMC9953055",
+    "title": "Oligodendrocyte Progenitors Display Enhanced Proliferation and Autophagy after Space Flight",
+    "cited": [
+      "10607959",
+      "PMC9699585"
+    ],
+    "cited_by": [
+      "10528075"
+    ]
+  },
+  {
+    "id": "PMC9953463",
+    "title": "Transcriptomic Effects on the Mouse Heart Following 30 Days on the International Space Station",
+    "cited": [
+      "7870178",
+      "PMC7787258",
+      "PMC8396460"
+    ],
+    "cited_by": [
+      "PMC11892206"
+    ]
+  },
+  {
+    "id": "PMC9964234",
+    "title": "Designing a Novel Monitoring Approach for the Effects of Space Travel on Astronauts\u2019 Health",
+    "cited": [
+      "PMC6915713",
+      "PMC6985101"
+    ],
+    "cited_by": []
+  }
+]

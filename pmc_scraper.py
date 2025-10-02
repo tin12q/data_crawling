@@ -72,11 +72,21 @@ This script requires the external ``requests`` library.  Install it via
 import argparse
 import json
 import re
+from html import unescape
+from html.parser import HTMLParser
 from pathlib import Path
 from typing import Dict, List, Optional
+import xml.etree.ElementTree as ET
+import time
 
 import pandas as pd
 import requests
+
+
+HTML_REQUEST_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; PMCKeywordBot/1.0; +https://www.ncbi.nlm.nih.gov/pmc/)"
+}
+EFETCH_URL = "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi"
 
 
 def extract_pmcid(link: str) -> Optional[str]:
@@ -177,6 +187,100 @@ def extract_keywords(passages: List[Dict]) -> List[str]:
                 if kw:
                     keywords.append(kw)
     return keywords
+
+
+class _MetaKeywordsParser(HTMLParser):
+    """HTML parser that collects PMC ``citation_keywords`` meta content."""
+
+    def __init__(self) -> None:
+        super().__init__()
+        self.keywords: List[str] = []
+
+    def handle_starttag(self, tag: str, attrs):  # type: ignore[override]
+        if tag.lower() != "meta":
+            return
+        attr_map = {name.lower(): value for name, value in attrs if name}
+        if attr_map.get("name", "").lower() != "citation_keywords":
+            return
+        content = attr_map.get("content")
+        if not content:
+            return
+        for kw in re.split(r"[;,\n]\s*", unescape(content)):
+            kw = kw.strip()
+            if kw:
+                self.keywords.append(kw)
+
+
+def fetch_html_keywords(url: str, timeout: int = 15) -> List[str]:
+    """Download PMC article page HTML and extract ``citation_keywords`` entries."""
+    try:
+        response = requests.get(url, timeout=timeout, headers=HTML_REQUEST_HEADERS)
+        response.raise_for_status()
+    except requests.RequestException:
+        return []
+    parser = _MetaKeywordsParser()
+    parser.feed(response.text)
+    parser.close()
+    return parser.keywords
+
+
+def fetch_xml_keywords(pmcid: str, timeout: int = 15, retries: int = 3, backoff: float = 1.0) -> List[str]:
+    """Fetch article metadata via EFetch and extract ``kwd`` entries."""
+    pmc_param = pmcid[3:] if pmcid.upper().startswith("PMC") else pmcid
+    attempt = 0
+    while True:
+        try:
+            response = requests.get(
+                EFETCH_URL,
+                params={"db": "pmc", "id": pmc_param, "retmode": "xml"},
+                timeout=timeout,
+                headers={"User-Agent": HTML_REQUEST_HEADERS["User-Agent"]},
+            )
+            response.raise_for_status()
+            break
+        except requests.RequestException:
+            attempt += 1
+            if attempt >= retries:
+                return []
+            time.sleep(backoff * attempt)
+    try:
+        root = ET.fromstring(response.text)
+    except ET.ParseError:
+        return []
+    keywords: List[str] = []
+    # Prefer explicit keyword tags first.
+    for kw_element in root.findall(".//kwd"):
+        text = "".join(kw_element.itertext()).strip()
+        if text:
+            keywords.append(text)
+    # Fall back to MeSH descriptor names, which are typically curated keywords.
+    for mesh_descriptor in root.findall(".//mesh-heading/descriptor-name"):
+        text = (mesh_descriptor.text or "").strip()
+        if text:
+            keywords.append(text)
+    # Finally, include subject headings when other keyword sources are absent.
+    for subject in root.findall(".//subject"):
+        text = (subject.text or "").strip()
+        if text:
+            keywords.append(text)
+    return keywords
+
+
+def dedupe_keywords(*keyword_lists: List[str]) -> List[str]:
+    """Merge multiple keyword lists, preserving order and removing duplicates."""
+    seen = set()
+    merged: List[str] = []
+    for kw_list in keyword_lists:
+        for kw in kw_list:
+            normalized = kw.strip()
+            if not normalized:
+                continue
+            key = normalized.lower()
+            if key in seen:
+                continue
+            seen.add(key)
+            merged.append(normalized)
+    return merged
 
 
 def extract_citations(passages: List[Dict]) -> List[Dict[str, object]]:
@@ -280,6 +384,8 @@ def process_articles(csv_path: Path, out_path: Path, max_articles: Optional[int]
     """
     df = pd.read_csv(csv_path)
     records: List[Dict[str, object]] = []
+    xml_keyword_cache: Dict[str, List[str]] = {}
+    html_keyword_cache: Dict[str, List[str]] = {}
     total = len(df) if max_articles is None else min(len(df), max_articles)
     for idx, row in df.iterrows():
         if max_articles is not None and idx >= max_articles:
@@ -292,6 +398,30 @@ def process_articles(csv_path: Path, out_path: Path, max_articles: Optional[int]
             continue
         if verbose:
             print(f"[{idx + 1}/{total}] Fetching {pmcid}...")
+        xml_keywords: List[str] = []
+        if pmcid:
+            cached_xml = xml_keyword_cache.get(pmcid)
+            if cached_xml is None:
+                cached_xml = fetch_xml_keywords(pmcid)
+                xml_keyword_cache[pmcid] = cached_xml
+                if verbose:
+                    if cached_xml:
+                        print(f"    Retrieved {len(cached_xml)} keywords via EFetch.")
+                    else:
+                        print("    No keywords found via EFetch.")
+            xml_keywords = cached_xml
+        html_keywords: List[str] = []
+        if not xml_keywords and isinstance(link, str) and link:
+            cached_html = html_keyword_cache.get(link)
+            if cached_html is None:
+                cached_html = fetch_html_keywords(link)
+                html_keyword_cache[link] = cached_html
+                if verbose:
+                    if cached_html:
+                        print(f"    Retrieved {len(cached_html)} keywords from HTML metadata.")
+                    else:
+                        print("    No keywords found in HTML metadata.")
+            html_keywords = cached_html
         try:
             bioc = fetch_bioc_json(pmcid)
         except requests.HTTPError as e:
@@ -309,6 +439,9 @@ def process_articles(csv_path: Path, out_path: Path, max_articles: Optional[int]
                 documents = col.get("documents", [])
                 for doc in documents:
                     record = parse_document(doc)
+                    record["keywords"] = dedupe_keywords(
+                        record.get("keywords", []), xml_keywords, html_keywords
+                    )
                     record["original_title"] = row.get("Title", "")
                     records.append(record)
         except Exception as e:
