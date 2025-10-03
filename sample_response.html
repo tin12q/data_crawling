@@ -1,0 +1,160 @@
+
+<script>
+    $(document).ready(function () {
+        $(".pubDetail").on("click", function (e) {
+            e.preventDefault();
+            $("#CurrentPublicationId").val($(this).data("pubid"));
+            // Submit the form which stores the model in session and then calls the DetailsForId URL in order to have 
+            // a copyable URL in the address bar.
+            $("#PubDetailForm").submit();
+        })
+    });
+
+
+</script>
+    <input type="hidden" id="searchResultCount" value="0" />
+    <div id="searchResultList">
+            <h4> Search yielded no results.</h4>
+        <div>
+            <!-- Moved form from top of div to here since hitting enter in the pageNumber field was causing the form to submit to the Details page -->
+<form action="/NSLSL/Search/Details" id="PubDetailForm" method="post" target="_blank"><input name="__RequestVerificationToken" type="hidden" value="pKncIvmCxgvHGwmun_OvOu1LjfJp-R2Gej459YDkvgIo_ugtnJLVfEDsPOCWBdAZ8Uft6Ba6fxFyCYaE6XsRnEGg4YlGxgtYI3XRxH-IWCGZQ2uG1JeCVp_0fipvZ86-44AadhI6QHgZZbaOmcBZCQ2" /><input id="PageFormat" name="PageFormat" type="hidden" value="Summary" /><input id="SortBy" name="SortBy" type="hidden" value="PubDate" /><input data-val="true" data-val-number="The&#32;field&#32;NumberPerPage&#32;must&#32;be&#32;a&#32;number." data-val-required="The&#32;NumberPerPage&#32;field&#32;is&#32;required." id="NumberPerPage" name="NumberPerPage" type="hidden" value="50" /><input data-val="true" data-val-number="The&#32;field&#32;CurrentPage&#32;must&#32;be&#32;a&#32;number." data-val-required="The&#32;CurrentPage&#32;field&#32;is&#32;required." id="CurrentPage" name="CurrentPage" type="hidden" value="1" /><input id="SearchCriteria" name="SearchCriteria" type="hidden" value="*" /><input data-val="true" data-val-number="The&#32;field&#32;NumTotalResults&#32;must&#32;be&#32;a&#32;number." data-val-required="The&#32;NumTotalResults&#32;field&#32;is&#32;required." id="NumTotalResults" name="NumTotalResults" type="hidden" value="0" /><input data-val="true" data-val-number="The&#32;field&#32;NumPages&#32;must&#32;be&#32;a&#32;number." data-val-required="The&#32;NumPages&#32;field&#32;is&#32;required." id="NumPages" name="NumPages" type="hidden" value="0" /><input data-val="true" data-val-number="The&#32;field&#32;CurrentPublicationId&#32;must&#32;be&#32;a&#32;number." data-val-required="The&#32;CurrentPublicationId&#32;field&#32;is&#32;required." id="CurrentPublicationId" name="CurrentPublicationId" type="hidden" value="0" /><input id="SearchResults" name="SearchResults" type="hidden" value="System.Collections.Generic.List`1[PF.Core.Data.ViewModels.SearchResultsViewModel+SearchResult]" /><input id="DefaultFilterCriteria" name="DefaultFilterCriteria" type="hidden" value="" /><input data-val="true" data-val-required="The&#32;SelectAllChecked&#32;field&#32;is&#32;required." id="SelectAllChecked" name="SelectAllChecked" type="hidden" value="False" /></form>
+            
+            <div class="">
+                <!-- Pagination section -->
+                <div class="row pt-2 isBottom">
+                    <div class="col-4 align-self-center font-italic">
+                        0 results
+                    </div>
+                    <!-- Only show the pagination bar if we have more results than the number on page setting -->
+                </div>
+            </div>        
+        </div>
+    </div>
+
+<script>
+        $(document).ready(function () {
+            $('#citationModal').on('shown.bs.modal', function (e) {
+
+                var button = e.relatedTarget;
+                if (button != null) {
+                    var buttonId = "#" +button.id;
+                    var publicationId = $(buttonId).attr('data-publicationid');
+                    getCitations(publicationId);
+
+                }
+            });
+
+         })
+
+        function changeCitation() {
+            var currentSelection = $("#citationFormat").val();
+            updateCitation(currentSelection);
+        }
+
+        function updateCitation(currentSelection) {
+            var citation = '';
+            switch (currentSelection) {
+                case '1':
+                    citation = $("#CitationAMA").val();
+                    break;
+                case '2':
+                    citation = $("#CitationAPA").val();
+                    break;
+                case '3':
+                    citation = $("#CitationMLA").val();
+                    break;
+                case '4':
+                    citation = $("#CitationNLM").val();
+                    break;
+                default:
+                    citation = $("#CitationAMA").val();
+                    
+            }
+
+            $('#divCitationDetail').remove();
+            $("#citationDisplay").append("<div id='divCitationDetail'>"+citation+"</div>")
+            //$("#citationDisplay").text(citation);
+        }
+
+
+        function getCitations(publicationId) {
+            $("#loadingMessage").show();
+
+            $.ajax({
+                type: "GET",
+                url: '/NSLSL/Search/GetCitationsAjax',
+                data: { publicationId: publicationId },
+                success: function (response) {
+                    $("#loadingMessage").hide();
+                    $("#citationDetail").html(response);
+                    var currentSelection = $("#citationFormat").val();
+                    updateCitation(currentSelection);
+                },
+                error: function (xhr, ajaxOptions, thrownError) {
+                    if (xhr.responseText !== "") {
+                        $("#loadingMessage").hide();
+                        toastr.error(xhr.responseText, "Error")
+                    }
+                }
+            });
+
+        }
+
+        function copyClipboard() {
+            var range = document.createRange();
+            range.selectNode(document.getElementById("citationDisplay"));
+            window.getSelection().removeAllRanges(); // clear current selection
+            window.getSelection().addRange(range); // to select text
+            document.execCommand("copy");
+            window.getSelection().removeAllRanges();// to deselect
+        }
+
+
+
+</script>
+
+<div class="modal fade" id="citationModal" tabindex="-1" role="dialog" aria-labelledby="citationModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document" style="max-width:600px;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <label class="modal-title" id="citationModalLabel"><sup style="top: -.5em; font-size: xx-small;"><i class="fas fa-quote-left"></i></sup>&nbsp;</i>Cite</label>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body" style="margin: 0 10px 0;">
+                <div class="row">
+                    <div id="citationDisplay" class="card" disabled="disabled" style="padding: 10px; width:100%; height:100%; border-color:lightgrey; outline-color:lightgrey; min-height:125px; " title="Citation" />
+                </div>
+                <div id="citationDetail"></div>
+            </div>
+            <div class="modal-footer" style="display: inline">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-6 pl-0">
+                            <label class="selector-label btn p-0" style="margin-right:auto; display:inline;">Format:</label>
+                            <select id="citationFormat" name="citationFormat" aria-label="Format" class="citation-style-selector" onchange="changeCitation();" style="display:inline; width:125px;">
+                                <option value="1" selected="selected">
+                                    AMA
+                                </option>
+                                <option value="2">
+                                    APA
+                                </option>
+                                <option value="3">
+                                    MLA
+                                </option>
+                                <option value="4">
+                                    NLM
+                                </option>
+                            </select>
+                        </div>
+                        <div class="col-6 p-0">
+                            <button id="copyCite" type="button" onclick="copyClipboard()" data-dismiss="modal" class="btn float-right  btn-primary ml-2"><i class="far fa-copy">&nbsp;</i>Copy</button>
+                            <button id="cancelCite" type="button" class="btn float-right btn-warning" data-dismiss="modal"><i class="far fa-window-close">&nbsp;</i>Cancel</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

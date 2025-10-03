@@ -1,0 +1,366 @@
+
+<script>
+    $(document).ready(function () {
+        $(".pubDetail").on("click", function (e) {
+            e.preventDefault();
+            $("#CurrentPublicationId").val($(this).data("pubid"));
+            // Submit the form which stores the model in session and then calls the DetailsForId URL in order to have 
+            // a copyable URL in the address bar.
+            $("#PubDetailForm").submit();
+        })
+    });
+
+
+</script>
+    <input type="hidden" id="searchResultCount" value="65217" />
+    <div id="searchResultList">
+                <div class="">
+                    <!-- Pagination section -->
+                    <div class="row pt-2">
+                        <div class="col-4 align-self-center font-italic">
+                            65,217 results
+                        </div>
+                        <!-- Only show the pagination bar if we have more results than the number on page setting -->
+<div class="col-8 pr-0">
+    <nav aria-label="Results Naviation" class="float-right">
+        <ul class="pagination">
+            <li class="page-item align-self-center">
+                <a class="fetchpage page-link form-control disabled"  aria-label="First" data-val="1">
+                    <span aria-hidden="true" class="fas fa-angle-double-left"></span>
+                    <span class="sr-only">First</span>
+                </a>
+                <span class="fetch-spinner spinner spinner-border spinner-border-sm d-none" style="color: #118cf1;"></span>
+            </li>
+            <li class="page-item align-self-center">
+                <a class="fetchpage page-link form-control"  aria-label="Previous" data-val="0">
+                    <span aria-hidden="true" class="fas fa-angle-left"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <span class="fetch-spinner spinner spinner-border spinner-border-sm d-none" style="color: #118cf1;"></span>
+            </li>
+            <li class="align-self-center pl-3 pr-3 font-italic">
+                <span class="d-none d-md-inline">Page&nbsp;&nbsp;</span>
+                <input class="page-item form-control pl-3 pr-3 pageNumber" type="text" data-val="page" value="1" title="Page Number" />
+                <span class="fetch-spinner spinner spinner-border spinner-border-sm d-none" style="color: #118cf1;"></span>
+                <span class="d-none d-md-inline">of 13,044</span>
+            </li>
+            <li class="page-item align-self-center">
+                <a class="fetchpage page-link form-control" href=# aria-label="Next" data-val="2">
+                    <span aria-hidden="true" class="fas fa-angle-right"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+                <span class="fetch-spinner spinner spinner-border spinner-border-sm d-none" style="color: #118cf1;"></span>
+            </li>
+            <li class="page-item align-self-center">
+                <a class="fetchpage page-link form-control" href=# aria-label="Last" data-val="13044">
+                    <span aria-hidden="true" class="fas fa-angle-double-right"></span>
+                    <span class="sr-only">Last</span>
+                </a>
+                <span class="fetch-spinner spinner spinner-border spinner-border-sm d-none" style="color: #118cf1;"></span>
+            </li>
+        </ul>
+    </nav>
+</div>
+                    </div>
+                    <div class="row">
+                        <div class="col align-self-center">
+                            <!-- Select all -->
+                           <input type="checkbox" id="selectAll" class="pl-2" style="width: 22px; height: 22px; vertical-align: middle;" />&nbsp;
+                            <strong> <label class="ml-1" for="selectAll" id="selectAllLabel" style="vertical-align:middle;margin:0px;">Select all Results</label></strong>
+                        </div>
+                    </div>
+                </div>
+        <div>
+            <!-- Moved form from top of div to here since hitting enter in the pageNumber field was causing the form to submit to the Details page -->
+<form action="/NSLSL/Search/Details" id="PubDetailForm" method="post" target="_blank"><input name="__RequestVerificationToken" type="hidden" value="acSCFM_QoankNG0fgZl-CYzz88uxkmQwH940yUyqruRZMkT3aTHAoSaWHC6RKEi2bl6B6owQit25PIMixhBMreciaPOLXhMukf39tpFTuBtfUfUtzG4YxpjTg5-WzgzCQvM26BfFhjJF--IKiwqr2Q2" /><input id="PageFormat" name="PageFormat" type="hidden" value="Summary" /><input id="SortBy" name="SortBy" type="hidden" value="PubDate" /><input data-val="true" data-val-number="The&#32;field&#32;NumberPerPage&#32;must&#32;be&#32;a&#32;number." data-val-required="The&#32;NumberPerPage&#32;field&#32;is&#32;required." id="NumberPerPage" name="NumberPerPage" type="hidden" value="5" /><input data-val="true" data-val-number="The&#32;field&#32;CurrentPage&#32;must&#32;be&#32;a&#32;number." data-val-required="The&#32;CurrentPage&#32;field&#32;is&#32;required." id="CurrentPage" name="CurrentPage" type="hidden" value="1" /><input id="SearchCriteria" name="SearchCriteria" type="hidden" value="space" /><input data-val="true" data-val-number="The&#32;field&#32;NumTotalResults&#32;must&#32;be&#32;a&#32;number." data-val-required="The&#32;NumTotalResults&#32;field&#32;is&#32;required." id="NumTotalResults" name="NumTotalResults" type="hidden" value="65217" /><input data-val="true" data-val-number="The&#32;field&#32;NumPages&#32;must&#32;be&#32;a&#32;number." data-val-required="The&#32;NumPages&#32;field&#32;is&#32;required." id="NumPages" name="NumPages" type="hidden" value="13044" /><input data-val="true" data-val-number="The&#32;field&#32;CurrentPublicationId&#32;must&#32;be&#32;a&#32;number." data-val-required="The&#32;CurrentPublicationId&#32;field&#32;is&#32;required." id="CurrentPublicationId" name="CurrentPublicationId" type="hidden" value="0" /><input id="SearchResults" name="SearchResults" type="hidden" value="System.Collections.Generic.List`1[PF.Core.Data.ViewModels.SearchResultsViewModel+SearchResult]" /><input id="DefaultFilterCriteria" name="DefaultFilterCriteria" type="hidden" value="" /><input data-val="true" data-val-required="The&#32;SelectAllChecked&#32;field&#32;is&#32;required." id="SelectAllChecked" name="SelectAllChecked" type="hidden" value="False" />                    <!-- Check model value and display either the Summary or Abstract view accordingly. -->
+                        <div class="row">
+                            <div class="col-1 mt-2 pl-0 pr-0">
+                                <div class="float-right">
+                                    <div><input type="checkbox" class="pubSelected" data-pubid="8856" style="width:22px; height:22px;" aria-label="Check to select pub 8856" /></div>
+                                    <div><a href="#" id="citationId-8856" data-toggle="modal" data-target="#citationModal" data-publicationId="8856">Cite</a></div>
+                                </div>
+                            </div>
+                            <div class="col-11 mb-2">
+                                <a href="/NSLSL/Search/DetailsForId/8856" target="_blank" title ="View Publication" class="pubDetail" id="pubDetail-0" data-id="0" data-pubid="8856"><strong style="font-size:1em">TIME, SPACE, AND GRAVITATION.</strong></a>
+                                <div style="color:purple;" class="mt-1">
+Einstein, A A                                </div>
+                                <div style="color:darkgreen;" class="mt-1 mb-1">
+                                    Science (New York, N.Y.). 1920 vol. 51:8-10. doi: 10.1126/science.51.1305.8
+                                </div>
+
+                                <span style="color:purple;" class="mt-1">NSLSL ID: 8856</span>
+                                    <span class="ml-4" style="color:purple;">PubMed: <a href="https://pubmed.ncbi.nlm.nih.gov/17820331" target="_blank" style="color:purple;">17820331</a></span>
+                                                                                                    <span class="font-italic mt-1 ml-4">No abstract available</span>
+                            </div>
+                        </div>
+                    <!-- Check model value and display either the Summary or Abstract view accordingly. -->
+                        <div class="row">
+                            <div class="col-1 mt-2 pl-0 pr-0">
+                                <div class="float-right">
+                                    <div><input type="checkbox" class="pubSelected" data-pubid="39812" style="width:22px; height:22px;" aria-label="Check to select pub 39812" /></div>
+                                    <div><a href="#" id="citationId-39812" data-toggle="modal" data-target="#citationModal" data-publicationId="39812">Cite</a></div>
+                                </div>
+                            </div>
+                            <div class="col-11 mb-2">
+                                <a href="/NSLSL/Search/DetailsForId/39812" target="_blank" title ="View Publication" class="pubDetail" id="pubDetail-0" data-id="0" data-pubid="39812"><strong style="font-size:1em">The Ventilation, Heating and Lighting of Hospital Wards.</strong></a>
+                                <div style="color:purple;" class="mt-1">
+Watt, J J                                </div>
+                                <div style="color:darkgreen;" class="mt-1 mb-1">
+                                    Proceedings of the Royal Society of Medicine. 1933 vol. 26:1411-26
+                                </div>
+
+                                <span style="color:purple;" class="mt-1">NSLSL ID: 39812</span>
+                                    <span class="ml-4" style="color:purple;">PubMed: <a href="https://pubmed.ncbi.nlm.nih.gov/19989481" target="_blank" style="color:purple;">19989481</a></span>
+                                                                    <span class="ml-4" style="color:purple;">PubMedCentral: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2204425" target="_blank" style="color:purple;">2204425</a></span>
+                                                                    <br />
+                                    <div class="mt-1">History of ventilation in last 100 years, showing reversal of ideas and influence of sanatorium idea.Physiology of cool moving air. How it affects metabolism, heat-loss and he...</div>
+                            </div>
+                        </div>
+                    <!-- Check model value and display either the Summary or Abstract view accordingly. -->
+                        <div class="row">
+                            <div class="col-1 mt-2 pl-0 pr-0">
+                                <div class="float-right">
+                                    <div><input type="checkbox" class="pubSelected" data-pubid="202893" style="width:22px; height:22px;" aria-label="Check to select pub 202893" /></div>
+                                    <div><a href="#" id="citationId-202893" data-toggle="modal" data-target="#citationModal" data-publicationId="202893">Cite</a></div>
+                                </div>
+                            </div>
+                            <div class="col-11 mb-2">
+                                <a href="/NSLSL/Search/DetailsForId/202893" target="_blank" title ="View Publication" class="pubDetail" id="pubDetail-0" data-id="0" data-pubid="202893"><strong style="font-size:1em">Demonstration-Lecture on X-ray Cinematography.</strong></a>
+                                <div style="color:purple;" class="mt-1">
+Reynolds, R J RJ                                </div>
+                                <div style="color:darkgreen;" class="mt-1 mb-1">
+                                    Proceedings of the Royal Society of Medicine. 1934 vol. 27:985-90
+                                </div>
+
+                                <span style="color:purple;" class="mt-1">NSLSL ID: 202893</span>
+                                    <span class="ml-4" style="color:purple;">PubMedCentral: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2205401" target="_blank" style="color:purple;">2205401</a></span>
+                                                                    <span class="ml-4" style="color:purple;">PubMed: <a href="https://pubmed.ncbi.nlm.nih.gov/19989867" target="_blank" style="color:purple;">19989867</a></span>
+                                                                    <br />
+                                    <div class="mt-1">The author describes a practical method of X-ray cinematography by which permanent records may be rapidly and inexpensively obtained.A photograph is taken of the screen-image ...</div>
+                            </div>
+                        </div>
+                    <!-- Check model value and display either the Summary or Abstract view accordingly. -->
+                        <div class="row">
+                            <div class="col-1 mt-2 pl-0 pr-0">
+                                <div class="float-right">
+                                    <div><input type="checkbox" class="pubSelected" data-pubid="202889" style="width:22px; height:22px;" aria-label="Check to select pub 202889" /></div>
+                                    <div><a href="#" id="citationId-202889" data-toggle="modal" data-target="#citationModal" data-publicationId="202889">Cite</a></div>
+                                </div>
+                            </div>
+                            <div class="col-11 mb-2">
+                                <a href="/NSLSL/Search/DetailsForId/202889" target="_blank" title ="View Publication" class="pubDetail" id="pubDetail-0" data-id="0" data-pubid="202889"><strong style="font-size:1em">The Present and Future of Radium Teletherapy: (Section of Radiology).</strong></a>
+                                <div style="color:purple;" class="mt-1">
+Carling, E R ER &#x2022; Allchin, F M FM                                </div>
+                                <div style="color:darkgreen;" class="mt-1 mb-1">
+                                    Proceedings of the Royal Society of Medicine. 1935 vol. 28:1145-56
+                                </div>
+
+                                <span style="color:purple;" class="mt-1">NSLSL ID: 202889</span>
+                                    <span class="ml-4" style="color:purple;">PubMedCentral: <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2205791" target="_blank" style="color:purple;">2205791</a></span>
+                                                                    <span class="ml-4" style="color:purple;">PubMed: <a href="https://pubmed.ncbi.nlm.nih.gov/19990345" target="_blank" style="color:purple;">19990345</a></span>
+                                                                    <br />
+                                    <div class="mt-1">The problems before the radium teletherapist are those ordinarily dealt with by the deep-X-ray therapist. There is, unfortunately, only one method available for the solution o...</div>
+                            </div>
+                        </div>
+                    <!-- Check model value and display either the Summary or Abstract view accordingly. -->
+                        <div class="row">
+                            <div class="col-1 mt-2 pl-0 pr-0">
+                                <div class="float-right">
+                                    <div><input type="checkbox" class="pubSelected" data-pubid="8868" style="width:22px; height:22px;" aria-label="Check to select pub 8868" /></div>
+                                    <div><a href="#" id="citationId-8868" data-toggle="modal" data-target="#citationModal" data-publicationId="8868">Cite</a></div>
+                                </div>
+                            </div>
+                            <div class="col-11 mb-2">
+                                <a href="/NSLSL/Search/DetailsForId/8868" target="_blank" title ="View Publication" class="pubDetail" id="pubDetail-0" data-id="0" data-pubid="8868"><strong style="font-size:1em">Matter, Electricity and Gravitation in Flat Space-Time.</strong></a>
+                                <div style="color:purple;" class="mt-1">
+Birkhoff, G D GD                                </div>
+                                <div style="color:darkgreen;" class="mt-1 mb-1">
+                                    Proceedings of the National Academy of Sciences of the United States of America. 1943 vol. 29:231-9. doi: 10.1073/pnas.29.8.231
+                                </div>
+
+                                <span style="color:purple;" class="mt-1">NSLSL ID: 8868</span>
+                                    <span class="ml-4" style="color:purple;">PubMed: <a href="https://pubmed.ncbi.nlm.nih.gov/16578082" target="_blank" style="color:purple;">16578082</a></span>
+                                                                                                    <span class="font-italic mt-1 ml-4">No abstract available</span>
+                            </div>
+                        </div>
+</form>
+            
+            <div class="">
+                <!-- Pagination section -->
+                <div class="row pt-2 isBottom">
+                    <div class="col-4 align-self-center font-italic">
+                        65,217 results
+                    </div>
+                    <!-- Only show the pagination bar if we have more results than the number on page setting -->
+<div class="col-8 pr-0">
+    <nav aria-label="Results Naviation" class="float-right">
+        <ul class="pagination">
+            <li class="page-item align-self-center">
+                <a class="fetchpage page-link form-control disabled"  aria-label="First" data-val="1">
+                    <span aria-hidden="true" class="fas fa-angle-double-left"></span>
+                    <span class="sr-only">First</span>
+                </a>
+                <span class="fetch-spinner spinner spinner-border spinner-border-sm d-none" style="color: #118cf1;"></span>
+            </li>
+            <li class="page-item align-self-center">
+                <a class="fetchpage page-link form-control"  aria-label="Previous" data-val="0">
+                    <span aria-hidden="true" class="fas fa-angle-left"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <span class="fetch-spinner spinner spinner-border spinner-border-sm d-none" style="color: #118cf1;"></span>
+            </li>
+            <li class="align-self-center pl-3 pr-3 font-italic">
+                <span class="d-none d-md-inline">Page&nbsp;&nbsp;</span>
+                <input class="page-item form-control pl-3 pr-3 pageNumber" type="text" data-val="page" value="1" title="Page Number" />
+                <span class="fetch-spinner spinner spinner-border spinner-border-sm d-none" style="color: #118cf1;"></span>
+                <span class="d-none d-md-inline">of 13,044</span>
+            </li>
+            <li class="page-item align-self-center">
+                <a class="fetchpage page-link form-control" href=# aria-label="Next" data-val="2">
+                    <span aria-hidden="true" class="fas fa-angle-right"></span>
+                    <span class="sr-only">Next</span>
+                </a>
+                <span class="fetch-spinner spinner spinner-border spinner-border-sm d-none" style="color: #118cf1;"></span>
+            </li>
+            <li class="page-item align-self-center">
+                <a class="fetchpage page-link form-control" href=# aria-label="Last" data-val="13044">
+                    <span aria-hidden="true" class="fas fa-angle-double-right"></span>
+                    <span class="sr-only">Last</span>
+                </a>
+                <span class="fetch-spinner spinner spinner-border spinner-border-sm d-none" style="color: #118cf1;"></span>
+            </li>
+        </ul>
+    </nav>
+</div>
+                </div>
+            </div>        
+        </div>
+    </div>
+
+<script>
+        $(document).ready(function () {
+            $('#citationModal').on('shown.bs.modal', function (e) {
+
+                var button = e.relatedTarget;
+                if (button != null) {
+                    var buttonId = "#" +button.id;
+                    var publicationId = $(buttonId).attr('data-publicationid');
+                    getCitations(publicationId);
+
+                }
+            });
+
+         })
+
+        function changeCitation() {
+            var currentSelection = $("#citationFormat").val();
+            updateCitation(currentSelection);
+        }
+
+        function updateCitation(currentSelection) {
+            var citation = '';
+            switch (currentSelection) {
+                case '1':
+                    citation = $("#CitationAMA").val();
+                    break;
+                case '2':
+                    citation = $("#CitationAPA").val();
+                    break;
+                case '3':
+                    citation = $("#CitationMLA").val();
+                    break;
+                case '4':
+                    citation = $("#CitationNLM").val();
+                    break;
+                default:
+                    citation = $("#CitationAMA").val();
+                    
+            }
+
+            $('#divCitationDetail').remove();
+            $("#citationDisplay").append("<div id='divCitationDetail'>"+citation+"</div>")
+            //$("#citationDisplay").text(citation);
+        }
+
+
+        function getCitations(publicationId) {
+            $("#loadingMessage").show();
+
+            $.ajax({
+                type: "GET",
+                url: '/NSLSL/Search/GetCitationsAjax',
+                data: { publicationId: publicationId },
+                success: function (response) {
+                    $("#loadingMessage").hide();
+                    $("#citationDetail").html(response);
+                    var currentSelection = $("#citationFormat").val();
+                    updateCitation(currentSelection);
+                },
+                error: function (xhr, ajaxOptions, thrownError) {
+                    if (xhr.responseText !== "") {
+                        $("#loadingMessage").hide();
+                        toastr.error(xhr.responseText, "Error")
+                    }
+                }
+            });
+
+        }
+
+        function copyClipboard() {
+            var range = document.createRange();
+            range.selectNode(document.getElementById("citationDisplay"));
+            window.getSelection().removeAllRanges(); // clear current selection
+            window.getSelection().addRange(range); // to select text
+            document.execCommand("copy");
+            window.getSelection().removeAllRanges();// to deselect
+        }
+
+
+
+</script>
+
+<div class="modal fade" id="citationModal" tabindex="-1" role="dialog" aria-labelledby="citationModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document" style="max-width:600px;">
+        <div class="modal-content">
+            <div class="modal-header">
+                <label class="modal-title" id="citationModalLabel"><sup style="top: -.5em; font-size: xx-small;"><i class="fas fa-quote-left"></i></sup>&nbsp;</i>Cite</label>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body" style="margin: 0 10px 0;">
+                <div class="row">
+                    <div id="citationDisplay" class="card" disabled="disabled" style="padding: 10px; width:100%; height:100%; border-color:lightgrey; outline-color:lightgrey; min-height:125px; " title="Citation" />
+                </div>
+                <div id="citationDetail"></div>
+            </div>
+            <div class="modal-footer" style="display: inline">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-6 pl-0">
+                            <label class="selector-label btn p-0" style="margin-right:auto; display:inline;">Format:</label>
+                            <select id="citationFormat" name="citationFormat" aria-label="Format" class="citation-style-selector" onchange="changeCitation();" style="display:inline; width:125px;">
+                                <option value="1" selected="selected">
+                                    AMA
+                                </option>
+                                <option value="2">
+                                    APA
+                                </option>
+                                <option value="3">
+                                    MLA
+                                </option>
+                                <option value="4">
+                                    NLM
+                                </option>
+                            </select>
+                        </div>
+                        <div class="col-6 p-0">
+                            <button id="copyCite" type="button" onclick="copyClipboard()" data-dismiss="modal" class="btn float-right  btn-primary ml-2"><i class="far fa-copy">&nbsp;</i>Copy</button>
+                            <button id="cancelCite" type="button" class="btn float-right btn-warning" data-dismiss="modal"><i class="far fa-window-close">&nbsp;</i>Cancel</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,28 @@
+{
+  "NASA_Space_Biology_Areas": [
+    {
+      "name": "Microbiology",
+      "description": "Understand how spaceflight conditions affect microbial life, processes, and community dynamics. Objectives include conducting long-term microbial observatory studies on the ISS, determining how spaceflight alters microbial virulence, antibiotic resistance, biofilm formation, and microbial-plant/animal interactions, and using ground-based analogs to simulate spaceflight conditions."
+    },
+    {
+      "name": "Cell and Molecular Biology",
+      "description": "Determine how the space environment affects life at cellular and molecular levels. Focus areas include cellular responses to spaceflight, genomic changes, signaling, DNA structure and function, and developing systems biology understanding of gravity-related phenotypic changes. Omics datasets are generated for broad public access via GeneLab."
+    },
+    {
+      "name": "Plant Biology",
+      "description": "Understand plant and microbial growth in space and the physiological responses of plants to spaceflight environments. Objectives include analyzing plant growth, metabolism, and plant-microbe interactions in space, improving horticultural strategies for bioregenerative life-support systems, and studying chronic radiation effects on plants."
+    },
+    {
+      "name": "Animal Biology",
+      "description": "Investigate the mechanisms animals use to adapt to spaceflight, providing knowledge relevant to human health. Model organisms are used to study physiological changes such as musculoskeletal atrophy, cardiopulmonary deconditioning, immune dysfunction, and metabolic changes. Objectives include identifying gravity thresholds and studying genomic regulation of organ responses."
+    },
+    {
+      "name": "Developmental, Reproductive and Evolutionary Biology",
+      "description": "Determine how spaceflight influences development, reproduction, and evolution. Objectives include understanding how altered gravity affects gametes, reproduction, organ formation, and lifespan, and whether changes persist across generations. This area explores developmental programs and long-term evolutionary impacts of space environments."
+    },
+    {
+      "name": "Systems Biology",
+      "description": "Through GeneLab, build an open repository of omics data to enable systems-level analysis of how organisms respond to spaceflight. Objectives include gathering and integrating genomic, transcriptomic, proteomic, and metabolomic datasets, developing bioinformatics tools, discovering molecular networks influenced by space, and fostering collaboration and open science."
+    }
+  ]
+}
